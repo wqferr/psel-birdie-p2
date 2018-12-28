@@ -10,6 +10,9 @@ class BaseProductSpider(scrapy.Spider):
     _title_selector = '//div[contains(@class, "card--product__name")]/text()'
     _next_page_url_selector = '//li[contains(@class, "pagination__item")]/a[i]/@href'
 
+    def __init__(self, n_pages=20):
+        self.n_pages = int(n_pages)
+
     def parse(self, response):
         base_url = f'{response.url}/{self.product_url_suffix}'
 
