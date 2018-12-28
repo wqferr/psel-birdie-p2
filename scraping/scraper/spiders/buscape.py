@@ -1,17 +1,18 @@
 import scrapy
 from scrapy.http import Request
 
-from .product import ProductList
 
-class BaseProductSpider(scrapy.Spider):
+class BuscapeSpider(scrapy.Spider):
+    name = 'buscape'
     allowed_domains = ['www.buscape.com.br']
     start_urls = ['https://www.buscape.com.br/']
 
     _title_selector = '//div[contains(@class, "card--product__name")]/text()'
     _next_page_url_selector = '//li[contains(@class, "pagination__item")]/a[i]/@href'
 
-    def __init__(self, n_pages=20):
+    def __init__(self, n_pages=20, product_url_suffix=''):
         self.n_pages = int(n_pages)
+        self.product_url_suffix = product_url_suffix
 
     def parse(self, response):
         base_url = f'{response.url}/{self.product_url_suffix}'
@@ -24,6 +25,4 @@ class BaseProductSpider(scrapy.Spider):
 
     def parse_page(self, response):
         titles = response.xpath(self._title_selector).extract()
-        product_list = ProductList()
-        product_list['titles'] = titles
-        return product_list
+        return {'titles': titles}
