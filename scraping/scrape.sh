@@ -1,0 +1,1 @@
+python scrape.py -c -p 20 -o ./out/ buscape - categories.txt
