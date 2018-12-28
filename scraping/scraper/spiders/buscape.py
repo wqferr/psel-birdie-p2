@@ -10,12 +10,12 @@ class BuscapeSpider(scrapy.Spider):
 
     _title_selector = '//div[contains(@class, "card--product__name")]/text()'
 
-    def __init__(self, n_pages=20, product_url_suffix=''):
+    def __init__(self, n_pages=20, category=''):
         self.n_pages = int(n_pages)
-        self.product_url_suffix = product_url_suffix
+        self.category = category
 
     def parse(self, response):
-        base_url = urljoin(response.url, self.product_url_suffix)
+        base_url = urljoin(response.url, self.category)
 
         for i in range(0, self.n_pages):
             yield Request(
