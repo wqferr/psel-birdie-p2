@@ -25,4 +25,4 @@ class BuscapeSpider(scrapy.Spider):
 
     def parse_page(self, response):
         titles = response.xpath(self._title_selector).extract()
-        return {'titles': titles}
+        return ({'TITLE': title} for title in titles)
