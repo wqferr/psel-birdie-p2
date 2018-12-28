@@ -44,10 +44,3 @@ class BuscapeSpider(scrapy.Spider):
                 'SOURCE': source,
                 'CATEGORY': self.category
             } for title, source in zip(titles, sources))
-        # titles = response.xpath(self._title_selector).extract()
-        # return (
-        #     {
-        #         'TITLE': title,
-        #         'SOURCE': response.url,
-        #         'CATEGORY': self.category
-        #     } for title in titles)
