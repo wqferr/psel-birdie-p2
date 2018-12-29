@@ -1,0 +1,1 @@
+python group.py ./out/ ./products.tsv
