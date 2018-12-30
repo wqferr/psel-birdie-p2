@@ -5,21 +5,29 @@ _patterns = [
     r'smart', # contém "smart"
     r'(?:ph|f)one', # contém "fone" ou "phone"
     r'\bcelular\b', # contém a palavra "celular"
-    r'\b[a-z]\d\b', # contém, p.e., "G5", "S9", ...
+    r'\b[a-z]+\d+\b', # contém, p.e., "G5", "S9", ...
     r'\b(?:capa|case)\b', # contém a palavra "capa" ou "case"
     r'\bpara\b', # contém a palavra "para" (p.e. "antena para celular")
-    r'\d+ ?GB', # contém algo que se pareça com uma quantidade de memória
+    r'pel[íi]cula', # contém "película"
     r'(?:plus|\+)\b', # contém uma palavra que termine com "plus" ou "+"
-    r'chip\b' # contém uma palavra que termine com "chip"
+    r'chip\b', # contém uma palavra que termine com "chip",
+    r'MP\b' # contém abreviação de megapixels
 ]
 
 _patterns_re = [re.compile(pat, re.IGNORECASE) for pat in _patterns]
 
 # Usado para nomear as colunas do DataFrame
 attr_names = [
-    'smart', 'phone', 'celular',
-    'letra_num', 'capa', 'para',
-    'mem', 'plus', 'chip'
+    'smart',
+    'phone',
+    'celular',
+    'letra_num',
+    'capa',
+    'para',
+    'pelicula',
+    'plus',
+    'chip',
+    'MP'
 ]
 
 attr_col_names = [f're_{col}' for col in attr_names]

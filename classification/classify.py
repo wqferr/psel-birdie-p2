@@ -1,19 +1,20 @@
 import pandas as pd
 import numpy as np
+import pickle
 
 from extract_features import get_df_attributes, get_attr_X
 from sklearn.linear_model import Perceptron
+
+from sys import argv
 
 
 def read_data(filename, clean_frac=0.6):
     data = pd.read_csv(filename, sep='\t')
     data['ORIGINAL_TITLE'] = data.TITLE
-    if 'CATEGORY' in data.columns:
-        smartphones_idx = data.CATEGORY == 'celular-e-smartphone'
-    else:
-        lowercase_titles = data.TITLE.str.lower()
-        smartphones_idx = lowercase_titles.str.startswith('celular')
-        smartphones_idx |= lowercase_titles.str.startswith('smartphone')
+
+    lowercase_titles = data.TITLE.str.lower()
+    smartphones_idx = lowercase_titles.str.startswith('celular')
+    smartphones_idx |= lowercase_titles.str.startswith('smartphone')
 
     phone_titles = data.loc[smartphones_idx, 'TITLE']
 
@@ -25,23 +26,28 @@ def read_data(filename, clean_frac=0.6):
     data.loc[trimmed_smartphones_idx, 'TITLE'] = clean_titles
     return data
 
-if __name__ == '__main__':
-    perceptron = Perceptron(max_iter=1e4)
-    train_data = read_data('products.tsv')
-    train_attr = get_df_attributes(train_data)
-    train_X = get_attr_X(train_attr)
-    train_y = train_attr.CATEGORY == 'celular-e-smartphone'
+
+def main():
+    threshold = float(argv[1])
+
+    with open('model.clf', 'rb') as f:
+        model = pickle.load(f)
 
     data = read_data('data_estag_ds.tsv')
     data_attr = get_df_attributes(data)
     X = get_attr_X(data_attr)
 
-    perceptron.fit(train_X, train_y)
-    predicted_labels = perceptron.predict(X)
-    output = data.copy()
-    output['SMARTPHONE'] = predicted_labels
+    probas = model.decision_function(X)[:, 1]
+    prediction = probas > threshold
 
-    output.TITLE = output.ORIGINAL_TITLE
+    output = data.copy()
+    output['SMARTPHONE'] = prediction
+
+    # output.TITLE = output.ORIGINAL_TITLE
     output.drop('ORIGINAL_TITLE', axis=1, inplace=True)
 
-    output.to_csv('output.tsv', sep='\t', index=False)
+    output.to_csv('labeled_data.tsv', sep='\t', index=False)
+
+
+if __name__ == '__main__':
+    main()

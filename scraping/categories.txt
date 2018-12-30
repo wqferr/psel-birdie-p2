@@ -1,6 +1,7 @@
 celular-e-smartphone
 capa-para-celular-e-smartphone
-outros-acessorios-para-celular-e-smartphone
+pelicula-para-celular-e-smartphone
+aparelho-de-telefone
 tv
 jogos-de-rpg
 processador

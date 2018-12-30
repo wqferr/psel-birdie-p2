@@ -30,7 +30,7 @@ first_words.value_counts()
 
 clean_titles = phone_titles.apply(lambda t: ' '.join(t.split()[1:]))
 smartphones = data[data.CATEGORY == 'celular-e-smartphone']
-trimmed_smartphones_idx = smartphones.sample(frac=0.6).index
+trimmed_smartphones_idx = smartphones.sample(frac=0.4).index
 data.loc[trimmed_smartphones_idx, 'TITLE'] = clean_titles
 
 #%%
@@ -71,7 +71,7 @@ naive_bayes = BernoulliNB(binarize=None)
 X = clf_features[attr_col_names].values
 y = clf_features['SMARTPHONE'].values
 
-# %%
+#%%
 
 def eval_model(model):
     return cross_val_score(model, X, y, scoring='roc_auc', cv=10)
@@ -105,3 +105,44 @@ if test_result.pvalue < 0.05:
     print(f'Classificadores com desempenhos distindos')
 else:
     print(f'Não há evidências de que os classificadores tenham desempenhos diferentes')
+
+#%%
+
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import roc_curve
+
+#%%
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
+
+#%%
+
+model = bag_of_words
+
+model.fit(X_train, y_train)
+probas = model.predict_proba(X_test)[:, 1]
+fpr, tpr, thresholds = roc_curve(y_test, probas)
+
+#%%
+
+from matplotlib import pyplot as plt
+
+# %%
+
+plt.plot(fpr, tpr)
+for i, t in enumerate(thresholds):
+    if i % 4 == 0:
+        plt.text(fpr[i], tpr[i], f'{(t):.2f}')
+
+
+plt.show()
+
+#%%
+
+import pickle
+
+#%%
+
+model.fit(X, y)
+with open('model.clf', 'wb+') as f:
+    serialized_model = pickle.dump(model, f)
