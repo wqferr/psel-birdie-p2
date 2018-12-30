@@ -39,61 +39,11 @@ data[data.CATEGORY == 'celular-e-smartphone'].sample(10)
 
 #%%
 
-import re
-
-patterns = [
-    r'smart', # contém "smart"
-    r'(?:ph|f)one', # contém "fone" ou "phone"
-    r'\bcelular\b', # contém a palavra "celular"
-    r'\b[a-z]\d\b', # contém, p.e., "G5", "S9", ...
-    r'\b(?:capa|case)\b', # contém a palavra "capa" ou "case"
-    r'\bpara\b', # contém a palavra "para" (p.e. "antena para celular")
-    r'\d+ ?GB', # contém algo que se pareça com uma quantidade de memória
-    r'(?:plus|\+)\b' # contém uma palavra que termine com "plus" ou "+"
-]
-
-patterns_re = [re.compile(pat, re.IGNORECASE) for pat in patterns]
-
-# Usado para nomear as colunas do DataFrame
-attr_names = [
-    'smart', 'phone', 'celular',
-    'letra_num', 'capa', 'para',
-    'mem', 'plus'
-]
-
-attr_col_names = [f're_{col}' for col in attr_names]
+from extract_features import get_df_attributes, attr_col_names
 
 #%%
 
-# Transforma um título em uma lista de atributos
-def get_attributes(title):
-    title_attributes = []
-    for pattern in patterns_re:
-        if pattern.search(title) is None:
-            title_attributes.append(0)
-        else:
-            title_attributes.append(1)
-    return title_attributes
-
-#%%
-
-# Transforma as linhas de um DataFrame nos atributos correspondentes ao título
-def get_row_attributes(dataframe):
-    attributes = []
-    for i in dataframe.index:
-        row_attr = get_attributes(dataframe.loc[i].TITLE)
-        attributes.append(row_attr)
-    attr_df = pd.DataFrame(attributes)
-    attr_df.columns = attr_col_names
-
-    res_df = dataframe.copy()
-    for col in attr_df:
-        res_df.insert(len(res_df.columns), col, attr_df[col])
-    return res_df
-
-#%%
-
-features = get_row_attributes(data)
+features = get_df_attributes(data)
 
 #%%
 
