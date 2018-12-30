@@ -63,7 +63,7 @@ from sklearn.model_selection import cross_val_score
 
 #%%
 
-perceptron = Perceptron(alpha=0.05, max_iter=1e4)
+perceptron = Perceptron(max_iter=1e4)
 naive_bayes = BernoulliNB(binarize=None)
 
 #%%
@@ -84,6 +84,9 @@ def print_results(name, cv_score):
 # %%
 
 perceptron_res = eval_model(perceptron)
+
+#%%
+
 naive_bayes_res = eval_model(naive_bayes)
 
 # %%
@@ -99,6 +102,6 @@ from scipy.stats import ttest_ind
 test_result = ttest_ind(perceptron_res, naive_bayes_res)
 print(f'p-value: {test_result.pvalue:.3f}')
 if test_result.pvalue < 0.05:
-    print(f'Classificadores com desempenho diferentes')
+    print(f'Classificadores com desempenhos distindos')
 else:
     print(f'Não há evidências de que os classificadores tenham desempenhos diferentes')

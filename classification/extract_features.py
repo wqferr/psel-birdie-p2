@@ -9,7 +9,8 @@ _patterns = [
     r'\b(?:capa|case)\b', # contém a palavra "capa" ou "case"
     r'\bpara\b', # contém a palavra "para" (p.e. "antena para celular")
     r'\d+ ?GB', # contém algo que se pareça com uma quantidade de memória
-    r'(?:plus|\+)\b' # contém uma palavra que termine com "plus" ou "+"
+    r'(?:plus|\+)\b', # contém uma palavra que termine com "plus" ou "+"
+    r'chip\b' # contém uma palavra que termine com "chip"
 ]
 
 _patterns_re = [re.compile(pat, re.IGNORECASE) for pat in _patterns]
@@ -18,7 +19,7 @@ _patterns_re = [re.compile(pat, re.IGNORECASE) for pat in _patterns]
 attr_names = [
     'smart', 'phone', 'celular',
     'letra_num', 'capa', 'para',
-    'mem', 'plus'
+    'mem', 'plus', 'chip'
 ]
 
 attr_col_names = [f're_{col}' for col in attr_names]
@@ -47,3 +48,7 @@ def get_df_attributes(dataframe):
     for col in attr_df:
         res_df.insert(len(res_df.columns), col, attr_df[col])
     return res_df
+
+
+def get_attr_X(attr_df):
+    return attr_df[attr_col_names]
