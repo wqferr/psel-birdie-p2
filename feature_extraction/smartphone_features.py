@@ -64,7 +64,10 @@ def get_screen_size(title):
     return match.group(1)
 
 
-_brands = ['samsung', 'motorola', 'microsoft', 'apple', 'asus', 'xiaomi']
+_brands = [
+    'samsung', 'motorola', 'microsoft', 'apple', 'asus', 'xiaomi',
+    'lenovo', 'lg'
+]
 
 _brands_re = [
     re.compile(fr'\b({brand})\b', re.IGNORECASE) for brand in _brands,
@@ -72,13 +75,22 @@ _brands_re = [
 ]
 
 
+_known_models = {
+    r'(galaxy (?:young |ace |[a-z])\d)': 'samsung',
+    r'(moto [a-z]\d?)': 'motorola',
+    r'(iphone (?:\d|X)[a-z]?)': 'apple',
+    r'(zenfone \d(?: zoom| max| selfie|)(?: pro)?)': 'asus',
+    r'(redmi \d)\b': 'xiaomi',
+    r'(\bmi [a-z]\d)': 'xiaomi'
+    r'(pocophone [a-z]\d)': 'xiaomi'
+}
+
+
 def get_model(title):
-    model = _extract_known_model(title)
-    if model is None:
+    model, brand = _extract_known_model(title)
+    if brand is None:
         brand_matches = (brand_re.match(title) for brand_re in _brands_re)
         brand = next(brand_matches, None)
-    else:
-        brand = _get_brand_by_model(model)
 
     return {
         'brand': brand,
@@ -86,21 +98,16 @@ def get_model(title):
     }
 
 
-_known_models = {
-    r'(galaxy (?:young |ace |[a-z])\d)': 'samsung',
-    r'(moto [a-z]\d?)': 'motorola',
-    r'(lumia)': 'microsoft', # só tem 1 exemplo na base de dados, não conheço o padrão
-    r'(iphone (?:\d|X)[a-z]?)': 'apple',
-    r'(zenfone \d(?: zoom| max| selfie|))': 'asus',
-    r'(redmi \d)\b': 'xiaomi',
-    r'(mi [a-z]\d)': 'xiaomi'
-    r'(pocophone [a-z]\d)': 'xiaomi'
+_known_models_re = {
+    re.compile(model_re, re.IGNORECASE): brand
+        for model_re in _known_models
 }
 
 
 def _extract_known_model(title):
-    pass
-
-
-def _get_brand_by_model(model):
-    pass
+    for known_model, brand in _known_models_re.items():
+        match = known_model.search(title)
+        if match is not None:
+            model = match[1]
+            return model, brand
+    return None, None
