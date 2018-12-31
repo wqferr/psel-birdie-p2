@@ -49,5 +49,16 @@ def get_memory_and_storage(title):
         groups = match.groupdict()
         ram = groups['ram'] is not None
         amount_type = 'ram' if ram else 'storage'
-        stats[amount_type] = int(groups['amount'])
+        stats[amount_type] = groups['amount']
     return stats
+
+
+_screen_size_re = re.compile(
+    r'((?:\d+)(?:\.\d+))[\'"”]',
+    re.IGNORECASE
+)
+
+
+def get_screen_size(title):
+    match = _screen_size_re.search(title)
+    return match.group(1)
