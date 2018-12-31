@@ -37,7 +37,8 @@ def main():
     data_attr = get_df_attributes(data)
     X = get_attr_X(data_attr)
 
-    probas = model.decision_function(X)[:, 1]
+    # probas = model.decision_function(X)
+    probas = model.predict_proba(X)[:, 1]
     prediction = probas > threshold
 
     output = data.copy()

@@ -5,7 +5,7 @@ _patterns = [
     r'smart', # contém "smart"
     r'(?:ph|f)one', # contém "fone" ou "phone"
     r'\bcelular\b', # contém a palavra "celular"
-    r'\b[a-z]+\d+\b', # contém, p.e., "G5", "S9", ...
+    r'[a-z]+\d+', # contém, p.e., "G5", "S9", ...
     r'\b(?:capa|case)\b', # contém a palavra "capa" ou "case"
     r'\bpara\b', # contém a palavra "para" (p.e. "antena para celular")
     r'pel[íi]cula', # contém "película"
