@@ -13,8 +13,7 @@ def main():
     output_path = args['<output_file>']
     data = pd.read_csv(labeled_products_path, sep='\t')
     data.set_index('ID', inplace=True)
-    smartphones = data[data.SMARTPHONE]
-    smartphones = data[['TITLE']]
+    smartphones = data.loc[data.SMARTPHONE, 'TITLE']
     smartphones.to_csv(output_path, sep='\t')
 
 
