@@ -14,7 +14,7 @@ def main():
     data = pd.read_csv(labeled_products_path, sep='\t')
     data.set_index('ID', inplace=True)
     smartphones = data.loc[data.SMARTPHONE, 'TITLE']
-    smartphones.to_csv(output_path, sep='\t')
+    smartphones.to_csv(output_path, sep='\t', header=True)
 
 
 if __name__ == '__main__':
