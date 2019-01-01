@@ -1,28 +1,31 @@
-import pandas as pd
 import re
+from operator import itemgetter
 
+import pandas as pd
+from more_itertools import first_true
 
 # Dicionário de cores para nomes alternativos
 _color_alt_names = {
-    'black': ('preto'),
-    'white': ('branco'),
+    'black': ('preto',),
+    'white': ('branco',),
     'gold': ('ouro', 'dourado'),
-    'red': ('vermelho'),
-    'green': ('verde'),
-    'blue': ('azul'),
-    'pink': ('rosa'),
+    'red': ('vermelho',),
+    'green': ('verde',),
+    'blue': ('azul',),
+    'pink': ('rosa',),
     'silver': ('platinum', 'gray', 'platina', 'prata', 'cinza')
 }
 
 _color_re = {}
 
 for color_name, alt_names in _color_alt_names.items():
-    names = tuple(color_name) + alt_names
+    names = (color_name,) + alt_names
     options = '|'.join(names)
     re.compile(fr'\b({options})\b', re.IGNORECASE)
 
 
 def get_color(title):
+    title = title.lower()
     for color_name, color_re in _color_re.items():
         if color_re.search(title) is not None:
             return color_name
@@ -61,7 +64,7 @@ _screen_size_re = re.compile(
 
 def get_screen_size(title):
     match = _screen_size_re.search(title)
-    return match.group(1)
+    return match and match.group(1)
 
 
 _brands = [
@@ -70,8 +73,7 @@ _brands = [
 ]
 
 _brands_re = [
-    re.compile(fr'\b({brand})\b', re.IGNORECASE) for brand in _brands,
-    re.IGNORECASE
+    re.compile(fr'\b({brand})\b', re.IGNORECASE) for brand in _brands
 ]
 
 
@@ -81,16 +83,19 @@ _known_models = {
     r'(iphone (?:\d|X)[a-z]?)': 'apple',
     r'(zenfone \d(?: zoom| max| selfie|)(?: pro)?)': 'asus',
     r'(redmi \d)\b': 'xiaomi',
-    r'(\bmi [a-z]\d)': 'xiaomi'
+    r'(\bmi [a-z]\d)': 'xiaomi',
     r'(pocophone [a-z]\d)': 'xiaomi'
 }
 
 
 def get_model(title):
+    title = title.lower()
     model, brand = _extract_known_model(title)
     if brand is None:
-        brand_matches = (brand_re.match(title) for brand_re in _brands_re)
-        brand = next(brand_matches, None)
+        brand_matches = (brand_re.search(title) for brand_re in _brands_re)
+        brand = first_true(brand_matches, default=None)
+        if brand is not None:
+            brand = brand.group(1)
 
     return {
         'brand': brand,
@@ -100,7 +105,7 @@ def get_model(title):
 
 _known_models_re = {
     re.compile(model_re, re.IGNORECASE): brand
-        for model_re in _known_models
+    for model_re, brand in _known_models.items()
 }
 
 
@@ -113,7 +118,34 @@ def _extract_known_model(title):
     return None, None
 
 
-
 _plus_re = re.compile(r'(\+|plus\b)', re.IGNORECASE)
+
+
 def is_plus(title):
     return _plus_re.search(title) is not None
+
+
+def series_to_attr(title_series):
+    models = title_series.apply(get_model)
+    sep_model_brand = models.apply([
+        itemgetter('model'),
+        itemgetter('brand')
+    ])
+    sep_model_brand.columns = ['model', 'brand']
+    res = pd.DataFrame(columns=[
+        'TITLE',
+        'BRAND',
+        'MODEL',
+        'PLUS',
+        'COLOR',
+        'SCREEN_SIZE'
+    ])
+
+    res.TITLE = title_series
+    res.BRAND = sep_model_brand.brand
+    res.MODEL = sep_model_brand.model
+    res.PLUS = title_series.apply(is_plus)
+    res.COLOR = title_series.apply(get_color)
+    res.SCREEN_SIZE = title_series.apply(get_screen_size)
+
+    return res
