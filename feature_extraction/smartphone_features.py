@@ -111,3 +111,9 @@ def _extract_known_model(title):
             model = match[1]
             return model, brand
     return None, None
+
+
+
+_plus_re = re.compile(r'(\+|plus\b)', re.IGNORECASE)
+def is_plus(title):
+    return _plus_re.search(title) is not None
