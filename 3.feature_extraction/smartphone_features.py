@@ -6,10 +6,10 @@ from more_itertools import first_true
 
 # Dicionário de cores para nomes alternativos
 _color_alt_names = {
-    'black': ('preto',),
-    'white': ('branco',),
-    'gold': ('ouro', 'dourado'),
-    'red': ('vermelho',),
+    'black': ('preto', 'preta'),
+    'white': ('branco', 'branca'),
+    'gold': ('ouro', 'dourado', 'dourada'),
+    'red': ('vermelho', 'vermelha'),
     'green': ('verde',),
     'blue': ('azul',),
     'pink': ('rosa',),
@@ -21,7 +21,7 @@ _color_re = {}
 for color_name, alt_names in _color_alt_names.items():
     names = (color_name,) + alt_names
     options = '|'.join(names)
-    re.compile(fr'\b({options})\b', re.IGNORECASE)
+    _color_re[color_name] = re.compile(fr'\b({options})\b', re.IGNORECASE)
 
 
 def get_color(title):
