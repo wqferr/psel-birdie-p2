@@ -1,17 +1,18 @@
 import re
+
 import pandas as pd
 
 _patterns = [
-    r'smart', # contém "smart"
-    r'(?:ph|f)one', # contém "fone" ou "phone"
-    r'\bcelular\b', # contém a palavra "celular"
-    r'[a-z]+\d+', # contém, p.e., "G5", "S9", ...
-    r'\b(?:capa|case)\b', # contém a palavra "capa" ou "case"
-    r'\bpara\b', # contém a palavra "para" (p.e. "antena para celular")
-    r'pel[íi]cula', # contém "película"
-    r'(?:plus|\+)\b', # contém uma palavra que termine com "plus" ou "+"
-    r'chip\b', # contém uma palavra que termine com "chip",
-    r'MP\b' # contém abreviação de megapixels
+    r'smart',  # contém "smart"
+    r'(?:ph|f)one',  # contém "fone" ou "phone"
+    r'\bcelular\b',  # contém a palavra "celular"
+    r'[a-z]+\d+',  # contém, p.e., "G5", "S9", ...
+    r'\b(?:capa|case)\b',  # contém a palavra "capa" ou "case"
+    r'\bpara\b',  # contém a palavra "para" (p.e. "antena para celular")
+    r'pel[íi]cula',  # contém "película"
+    r'(?:plus|\+)\b',  # contém uma palavra que termine com "plus" ou "+"
+    r'chip\b',  # contém uma palavra que termine com "chip",
+    r'MP\b'  # contém abreviação de megapixels
 ]
 
 _patterns_re = [re.compile(pat, re.IGNORECASE) for pat in _patterns]
@@ -31,6 +32,7 @@ attr_names = [
 ]
 
 attr_col_names = [f're_{col}' for col in attr_names]
+
 
 # Transforma um título em uma lista de atributos
 def _get_attributes(title):

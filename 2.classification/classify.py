@@ -1,14 +1,12 @@
 import pandas as pd
-import numpy as np
 import pickle
 
 from extract_features import get_df_attributes, get_attr_X
-from sklearn.linear_model import Perceptron
 
 from sys import argv
 
 
-def read_data(filename, clean_frac=0.6):
+def read_data(filename, clean_frac=0.0):
     data = pd.read_csv(filename, sep='\t')
     data['ORIGINAL_TITLE'] = data.TITLE
 
@@ -33,11 +31,10 @@ def main():
     with open('model.clf', 'rb') as f:
         model = pickle.load(f)
 
-    data = read_data('data_estag_ds.tsv')
+    data = read_data('../data_estag_ds.tsv')
     data_attr = get_df_attributes(data)
     X = get_attr_X(data_attr)
 
-    # probas = model.decision_function(X)
     probas = model.predict_proba(X)[:, 1]
     prediction = probas > threshold
 
