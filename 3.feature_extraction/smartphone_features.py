@@ -132,10 +132,20 @@ def series_to_attr(title_series):
         itemgetter('brand')
     ])
     sep_model_brand.columns = ['model', 'brand']
+
+    specs = title_series.apply(get_memory_and_storage)
+    sep_mem_storage = specs.apply([
+        itemgetter('ram'),
+        itemgetter('storage')
+    ])
+    sep_mem_storage.columns = ['ram', 'storage']
+
     res = pd.DataFrame(columns=[
         'TITLE',
         'BRAND',
         'MODEL',
+        'RAM',
+        'STORAGE',
         'PLUS',
         'COLOR',
         'SCREEN_SIZE'
@@ -144,6 +154,8 @@ def series_to_attr(title_series):
     res.TITLE = title_series
     res.BRAND = sep_model_brand.brand
     res.MODEL = sep_model_brand.model
+    res.RAM = sep_mem_storage.ram
+    res.STORAGE = sep_mem_storage.storage
     res.PLUS = title_series.apply(is_plus)
     res.COLOR = title_series.apply(get_color)
     res.SCREEN_SIZE = title_series.apply(get_screen_size)
