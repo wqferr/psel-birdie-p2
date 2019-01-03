@@ -9,7 +9,7 @@ Options:
 '''
 
 from docopt import docopt
-from subprocess import Popen, call
+from subprocess import Popen
 from os import remove
 from os.path import join as path_join
 from glob import glob
@@ -28,8 +28,10 @@ def main():
 
     pool = []
     for category in categories:
-        process = Popen(f'scrapy crawl {spider_name} -a n_pages={n_pages} ' +
-            f'-a category={category} -o {path_join(out_path, category)}.json')
+        process = Popen(
+            f'scrapy crawl {spider_name} -a n_pages={n_pages} '
+            + f'-a category={category} -o {path_join(out_path, category)}.json'
+        )
         pool.append(process)
 
     while pool:

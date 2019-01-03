@@ -14,8 +14,10 @@ class BuscapeSpider(scrapy.Spider):
     allowed_domains = ['www.buscape.com.br']
     start_urls = ['https://www.buscape.com.br/']
 
-    _product_title_selector = '//div[contains(@class, "card--product__name")]/text()'
-    _product_href_selector = '//div[contains(@class, "card--product__name")]/../@href'
+    _product_title_selector = '//div[contains(@class, "card--product__name")]'\
+        + '/text()'
+    _product_href_selector = '//div[contains(@class, "card--product__name")]'\
+        + '/../@href'
 
     def __init__(self, n_pages=20, category=''):
         self.n_pages = int(n_pages)
