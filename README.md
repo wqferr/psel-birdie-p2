@@ -21,4 +21,19 @@ Por exemplo, no URL
 A categoria é `celular-e-smartphone`.
 
 O argumento `-p` para o script `scrape.py` indica o número de páginas a serem raspadas por informações.
-O script `scrape.sh` usa o valor 20, mas pode ser editado facilmente para usar outro valor.
+O script `scrape.sh` usa o valor `20`, mas pode ser editado facilmente para usar outro valor.
+
+### 2. Classificação
+#### TL;DR
+O notebook `create_model.ipynb` mostra o processo de seleção do classificador,
+bem como sua criação e seu treinamento sobre os dados coletados.
+O modelo escolhido é o Bag of Words, e é serializado no arquivo `model.clf`.
+
+Após a criação do modelo, o script `classify.sh` usa-o para classificar os dados de `products.tsv` no diretório do passo anterior. As entradas classificadas são salvas no arquivo `labeled_data.tsv`.
+
+#### Avançado
+O threshold usado para classificação pode ser configurado como argumento do script `classify.py`. O script `classify.sh` usa o valor `0.25`, determinado informalmente e superficialmente. Novamente, esse valor pode ser editado diretamente no script shell.
+
+As features extraídas para o uso dos classificadores Perceptron e Naive Bayes encontram-se no script `extract_features.py` como expressões regulares.
+
+Mais informações sobre o processo de decisão podem ser encontradas no notebook `create_model.ipynb`.
