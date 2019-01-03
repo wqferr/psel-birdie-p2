@@ -45,3 +45,17 @@ O threshold usado para classificação pode ser configurado como argumento do sc
 As features extraídas para o uso dos classificadores Perceptron e Naive Bayes encontram-se no script `extract_features.py` como expressões regulares.
 
 Mais informações sobre o processo de decisão podem ser encontradas no notebook `create_model.ipynb`.
+
+### 3. Extração de features
+#### TL;DR
+1. Rodar `filter.sh`
+2. Rodar notebook `extract_features.ipynb`
+3. Saída no arquivo `features.tsv`
+
+#### Detalhes
+O script `filter.sh` seleciona apenas os produtos marcados com `SMARTPHONE` `True` do arquivo `labeled_data.tsv` do passo anterior.
+Tais produtos são salvos no arquivo intermediário `smartphones.tsv`.
+
+O notebook `extract_features.ipynb` utiliza as features definidas no script `smartphone_features.py`.
+
+Os títulos, IDs e features extraídas dos produtos em `smartphones.tsv` são salvos em `features.tsv`. Valores desconhecidos são marcados com a string `N/A` na coluna correspondente.
