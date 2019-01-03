@@ -37,7 +37,7 @@ ID	TITLE	SMARTPHONE
 7528303	Smartphone Multilaser MS50 Colors Branco com Tela 5.0”, Dual Chip, Android 5.0, Câmera 8MP, Wi-Fi, 3G, Bluetooth e Processador Quad Core de 1.3 GHz	False
 7528304	Smartphone Multilaser MS50 Senior Preto com Tela 5.0”, Dual Chip, Android 5.0, Câmera 8MP, Wi-Fi, 3G, Bluetooth e Processador Quad Core de 1.3 GHz	False
 7923488	Smartphone ASUS Zenfone II ZE551 16GB 4G Tela 5.5 ZE551ML-6C705WW - BVOLT	True
-8105618	Smartphone Asus Zenfone 2 ZE551ML, 4G Android 5.0 Intel Quad Core 2.3GHz 16GB Câmera 13MP Tela 5.5, Dourado	True
+8105618	Smartphone Asus Zenfone 2 ZE551ML, 4G Android 5.0 Intel Quad Core 2.3GHz 16GB Câmera 13MP Tela 5.5, Dourado	False
 10025085	Moroccanoil Brilho Reflexivo Glimmer Shine 100 ml	False
 10025985	Telefone de Mesa Estilo Roda Azul c/ Luz - AR5063	False
 10026064	Maquina Para Corte E Acabamento De Pelo / Cabelo Wahl Detailer 5 Star Series Bivolt	False
@@ -52,9 +52,9 @@ ID	TITLE	SMARTPHONE
 10029788	Marvel-Estojo Xeryus 4535	False
 10029794	Playground Modular Advanced - Xalingo	False
 10029797	Violão Jumbo Elétrico Michael Vm625dt Venetian Com Bag	False
-10029798	Violão Elétrico Michael Vm921 Folk Aço Natural Fosco C/Bag	False
+10029798	Violão Elétrico Michael Vm921 Folk Aço Natural Fosco C/Bag	True
 10029821	Cars-Rádio Controle Mater Tokyo Drift Yellow 2413	False
-10029845	Violão Elétrico Michael Venetian Vm625dtst Aço - Natural Satin	False
+10029845	Violão Elétrico Michael Venetian Vm625dtst Aço - Natural Satin	True
 10029931	Kit Babete Feminina com 3 Unidades Bordada Chocalho	False
 10049750	Colchão Solteiro De Espuma Ortobom Viscomemory 88x188x32	False
 10057726	Tinta Para Cartucho Hp 935xl Cyan Pigmentada 1 Litro Aton High Definition	False
@@ -67,21 +67,21 @@ ID	TITLE	SMARTPHONE
 10080645	Pigmento Dailus Color Pro 06	False
 10080655	Pigmento Dailus Color Pro - 04	False
 10106758	Kit com 6 Porta-copos Bola 1	False
-10111398	Memoria 4gb Ddr3 1333 Kvr13n9s8/4 Kingston	True
+10111398	Memoria 4gb Ddr3 1333 Kvr13n9s8/4 Kingston	False
 10111460	Tinta Para Cartucho Hp 935xl Cyan Pigmentada 500ml Aton High Definition	False
 10111474	Tinta Para Cartucho Hp 935xl Magenta Pigmentada 100ml Aton High Definition	False
 10111480	Tinta Para Cartucho Hp 934xl Black Pigmentada 500ml Aton High Definition	False
 10119246	Headphone Sense Oex Hp-100 Preto	False
 10146854	Estojo Nintendo Ds Mini Folio Pink Ds Nin	False
 10156714	Colar Masculino Couro Zíper E Caveira Preto	False
-10156720	Pulseira Masculina Feminina Lava Vulcância Crucifixo	False
+10156720	Pulseira Masculina Feminina Lava Vulcância Crucifixo	True
 10156960	Kit Pulseira Masculina Feminina Couro E Crucifixo	False
 10157001	Cinta Slackline Azul 15 metros	False
 10157055	Pulseira Masculina De Couro E Placa Faithfé	False
 10157059	Kit Pulseira Masculina Couro E Tubo Açaí	False
 10157104	Pulseira Masculina Feminina Couro Marrom Infinito Vintage	False
 10157109	Pulseira Masculina Crucifixo E Ônix	False
-10157129	Pulseira Masculina Pedra Ônix Olho Tigre	False
+10157129	Pulseira Masculina Pedra Ônix Olho Tigre	True
 10157130	Pulseira Masculina Couro E Crucifixo Envelhecido	False
 10157158	Kit Pulseiras Masculinas Femininas Couro E Olho Grego	False
 10157160	Pulseira Masculina Pedra Ônix E Turquesa	False
@@ -90,7 +90,7 @@ ID	TITLE	SMARTPHONE
 10157269	Pulseira Masculina Pedra Natural Jaspe	False
 10157481	Kit Pulseiras Masculinas Femininas Turquesa Açaí E Cristais	False
 10157538	Pulseiras Masculinas Couro E Crucifixo	False
-10157548	Pulseira Masculina Feminina Pedra Ônix E Turquesa	False
+10157548	Pulseira Masculina Feminina Pedra Ônix E Turquesa	True
 10157589	Pulseira Masculina Shambala Olho De Tigre E Metais	False
 10157599	Pulseira Masculina Shambala Ancôra	False
 10157627	Kit Pulseiras Masculinas De Couro Anzol E Metal	False
@@ -102,7 +102,7 @@ ID	TITLE	SMARTPHONE
 10170805	Bumper Ero Original Galaxy S3 Siii I9300 + Pingente Laço (Bd01)	False
 10171144	Bastão Retrátil em Polímero	False
 10171191	Calça Feminina Camuflada Estonada Woodland Black	False
-10171277	Churrasqueira Rotativa Vertical à Gás Amarela 1055 - Malta	False
+10171277	Churrasqueira Rotativa Vertical à Gás Amarela 1055 - Malta	True
 10172173	Coldre Com Protetor De Coxa E Adaptador De Cintura - Canhoto	False
 10172236	Bumper + Case Ero Iphone 4 /4s Original Premium + Película (Bd06)	False
 10172238	Bumper Ero Original Samsung Galaxy S3 Siii I9300 + Pingente Laço (Bd13)	False
@@ -121,7 +121,7 @@ ID	TITLE	SMARTPHONE
 10176703	Forno Micro Ondas Panasonic Nn-St674s Inox 32l	False
 10178736	Capa Lg G4 / Dual Silicone Tpu Premium - Husky - Fumê	False
 10188031	Seladora Manual Térmica Com Pedal 25cm Para Embalagens 166 - Malta	False
-10193770	Película Vidro Temperado Sony Xperia Z3 Compact Proteção Máxima Invisível Alta Definição - Husky	True
+10193770	Película Vidro Temperado Sony Xperia Z3 Compact Proteção Máxima Invisível Alta Definição - Husky	False
 10195070	Kit 4 Tintas A Cartucho Hp 940 Cmyk Aton 100ml	False
 10198749	Tinta Para Cartucho Hp 22 28 57 Cyan 500ml Corante	False
 10198750	Tinta Para Cartucho Hp 22 28 57 Yellow 500ml Corante	False
@@ -200,14 +200,14 @@ ID	TITLE	SMARTPHONE
 10229064	Baterial Recarregavel 300mah 3,6v Aaa Ni-Mh Flex	False
 10229098	Kit Telefone Celular Fixo Prokd-6000 Preto Proeletronic	False
 10229104	Bateria Para Telefone Rural Ca40/Ca42/Ca403g 053048a Aquario	False
-10229203	Memória Kingston Hyperx Savage 4gb 1600mhz Ddr3 Cl9 Vermelha Hx316c9sr/4	True
+10229203	Memória Kingston Hyperx Savage 4gb 1600mhz Ddr3 Cl9 Vermelha Hx316c9sr/4	False
 10229265	Película Para Sony Xperia P - Diamant	False
 10229279	Memória 4gb Ddr3 Kingston Hyperx Fury 1600mhz Vermelho (Hx316c10fr/4)	False
 10229375	Tablet Samsung Galaxy Tab A 4g Sm-P355m,8,16gb,Câmera 5mp, Android 5.0,Quad Core 1.2 Ghz  Branco	False
 10229598	Guardanapo De Papel Folha Simples Azul Claro 30 X 33cm Pacote Com 50 Unidades Dafesta	False
-10230429	Camiseta Decote V Plus Size	True
+10230429	Camiseta Decote V Plus Size	False
 10230494	Memória 8Gb (1X8gb) Ddr3 1866Mhz Hyperx Fury Black Hx318c10fb/8 Kingston	False
-10231173	Memoria Kingston HYPER X FURY RED DESK 8GB DDR3 1866 HX318C10FR/8	True
+10231173	Memoria Kingston HYPER X FURY RED DESK 8GB DDR3 1866 HX318C10FR/8	False
 10231219	Memoria Desktop Gamer Hyperx Ddr3 Fury 8gb 1600mhz Ddr3 Non-Ecc Cl10 240-Pin Udimm Blue - Kingston	False
 10231221	Memoria Desktop Gamer Hyperx Ddr3 Fury 8gb 1600mhz Ddr3 Non-Ecc Cl10 Udimm Black - Kingston	False
 10231251	Memoria Desktop Gamer Hyperx Ddr3 Fury 4gb 1866mhz - Kingston	False
@@ -215,7 +215,7 @@ ID	TITLE	SMARTPHONE
 10231290	Memoria Desktop Gamer Hyperx Ddr3 Fury 4gb 1600mhz Ddr3 Non-Ecc Cl10 240-Pin Udimm Red - Kingston	False
 10232662	Linha Ygk G-Soul Super Jigman X4 2.5 (0,26mm - 35lb) 300m	False
 10236905	Capacete Ls2 Ff358 Réplica Alex Barros	False
-10252444	Omnitrix Touch Omniverse Nova Versão - Sunny 654	False
+10252444	Omnitrix Touch Omniverse Nova Versão - Sunny 654	True
 10255571	Tartarugas Ninja - Splat Flyer - Dtc	False
 10257994	Xploderz Munição - Sunny 401	False
 10260741	Guardanapo De Papel Rosa Com Bolinha Branca Dafesta	False
@@ -324,11 +324,11 @@ ID	TITLE	SMARTPHONE
 10392595	Capa Nuance Iphone 5/5s Intelimix Azul	False
 10392599	Capa Nuance Samsung Galaxy S4 I9500 I9505 Intelimix Verde Limão	False
 10392600	Capa Nuance Samsung Galaxy S4 I9500 I9505 Intelimix Rosa	False
-10392630	Capa Hexa Apple Iphone 5 / 5s Mycapa Branca / Roxa	True
+10392630	Capa Hexa Apple Iphone 5 / 5s Mycapa Branca / Roxa	False
 10392631	Capa De Couro Universal Até 10 Polegadas Miracase Space Preta	False
-10392657	Capa Hexa Apple Iphone 5 / 5s Mycapa Preta / Laranja	True
-10392663	Capa Hexa Apple Iphone 5 / 5s Mycapa Preta / Cinza	True
-10392664	Capa Hexa Apple Iphone 5 / 5s Mycapa Branca / Verde	True
+10392657	Capa Hexa Apple Iphone 5 / 5s Mycapa Preta / Laranja	False
+10392663	Capa Hexa Apple Iphone 5 / 5s Mycapa Preta / Cinza	False
+10392664	Capa Hexa Apple Iphone 5 / 5s Mycapa Branca / Verde	False
 10392692	Headset Groove Hp102 Preto Oex	False
 10394077	Porta Shampoo Slim Vermelho	False
 10394081	Porta Shampoo Slim Branco	False
@@ -398,7 +398,7 @@ ID	TITLE	SMARTPHONE
 10417445	Kit 4 Em 1 Adaptador Nano Sim E Micro Sim Para Sim E Ejetor De Chip	False
 10425358	Fonte Compativel Hp Compaq 8510w 8710w Mobile Workstation - 18.5v	False
 10426778	Fonte Compativel Hp Dv4 Dv5 Dv6 Dm4 Series - 18.5v	False
-10427453	Impressora Etiquetas, Argox, R400 Plus	True
+10427453	Impressora Etiquetas, Argox, R400 Plus	False
 10428153	Capa De Chuva Para Bebê Conforto	False
 10428238	Capa De Chuva Para Carrinho De Bebê	False
 10430665	Boneco Mickey Docinho - Multibrink 6150	False
@@ -480,8 +480,8 @@ ID	TITLE	SMARTPHONE
 10438250	Película Para Galaxy A5 De Vidro Temperado - Transparente	False
 10438646	Mini Box Click E Monte 25 Peças - Dismat	False
 10438747	Canudo Para Milk Shake Super Embalado Um A Um Caixa Com 2000 Unidades Bicão	False
-10438899	Boneca Anne Cante Comigo Recita Contos E Canta 204 - Super Toys	False
-10439119	Boneca Fábula Encantada - Super Toys	False
+10438899	Boneca Anne Cante Comigo Recita Contos E Canta 204 - Super Toys	True
+10439119	Boneca Fábula Encantada - Super Toys	True
 10439457	Boneca Nolly Fala 60 Frases 32cm 124 - Super Toys	False
 10439478	Carretilha Marine Sports Caster 200 (Manivela Direita)	False
 10439608	Thystium	False
@@ -495,13 +495,13 @@ ID	TITLE	SMARTPHONE
 10443255	Placa Mae Gigabyte Core i3 i5 i7 1150 Aud Vid LAN µATX GA-H81M-S3PH	False
 10443427	Capa Flip Cover S-view Asus Zenfone 2 Ze551ml Pink	True
 10443446	Capa De Tpu Lg G4 H815 Transparente	False
-10443546	Capa De Tpu Microsoft Lumia 532 Grafite	False
+10443546	Capa De Tpu Microsoft Lumia 532 Grafite	True
 10443581	Pulseira Bracelete Cabo De Dados Iphone 5 / 5s / 5c / 6 / 6 Plus Azul	False
 10443622	Capa Flip Cover S-View Asus Zenfone 2 Ze551ml Rosa	True
 10443720	"Computador Neologic NLI48161 Intel Core i5-4440 4GB 500GB + Monitor 21,5"" Linux"	False
 10443723	"Computador Neologic NLI48171 Intel Core i5-4440 4GB 500GB + Monitor 21,5"" Windows 7"	False
 10443830	Coqueteleira Fume 700ml - Probiótica	False
-10443864	Violão Eagle Folk Ch888 Nt Natural Aço Elétrico C Afinador	False
+10443864	Violão Eagle Folk Ch888 Nt Natural Aço Elétrico C Afinador	True
 10443869	Violão Eagle Folk Ch887 Bk Preto Aço Elétrico C Afinador	False
 10443909	Violão Elétrico Eagle Ch10 Srs Rosa Burst Aço	False
 10443928	Violão Elétrico Jumbo Aço Hofma Ye223 Bk Preto C Afinador	False
@@ -509,11 +509,11 @@ ID	TITLE	SMARTPHONE
 10443933	Violão Acústico Nylon Ch800 Eagle Canhoto Nt Lh Clássico - Natural	False
 10443950	Violão Elétrico Eagle Aço Jumbo Ch11 H Sweetheart Rosa	False
 10443993	Violão Eagle Folk Ch887 Rds Vermelho Busrt Aço Elétrico C Afinador	False
-10443994	Violão Eagle Folk Ch887 Sb Sunbusrt Aço Elétrico C Afinador	False
+10443994	Violão Eagle Folk Ch887 Sb Sunbusrt Aço Elétrico C Afinador	True
 10443995	Violão Eagle Folk Ch887 Bls Azul Busrt Aço Elétrico C Afinador	False
 10444009	Violão Folk Hofma Ye220 Bk Preto 220 Aço C Afinador	False
 10444060	"Computador Neologic NLI48181 Intel Core i5-4440 4GB 500GB + Monitor 21,5"" Windows 8"	False
-10444256	Violão Elétrico Aço Hofma Ye231 Nt Natural C Afinador	False
+10444256	Violão Elétrico Aço Hofma Ye231 Nt Natural C Afinador	True
 10444257	Violão Elétrico Nylon Hofma Ye230 Srs Rosa C Afinador	False
 10444259	Violão Elétrico Nylon Hofma Ye230 Bk Preto C Afinador	False
 10444305	Carrinho Infantil Hand Car Do Homem De Ferro Avengers 2311 - Líder	False
@@ -546,7 +546,7 @@ ID	TITLE	SMARTPHONE
 10455509	Capa De Silicone Fume Para Samsung Galaxy Ace	False
 10455555	Capa De Silicone Fume Para Iphone 6	False
 10455562	Capa De Silicone Fumê Para Iphone 6 Plus	False
-10455583	Escova Teen Rock Racket  - Ricca Belliz	False
+10455583	Escova Teen Rock Racket  - Ricca Belliz	True
 10455603	Celular Multilaser Up- Branco/Rosa	False
 10455610	Capa De Silicone Fume Para Lg G3 Mini	False
 10455764	Capa Preta Para Samsung Galaxy Win Duos 2	False
@@ -573,13 +573,13 @@ ID	TITLE	SMARTPHONE
 10460703	Coifa Parede Fischer Talent Touch Retangular 60CM Vidro Inox 127V	False
 10461103	Bag Ibox Bb200 Contrabaixo Preto	False
 10462926	Forever Liss Control Repair Leave-In Home Care 300ml	False
-10462958	Forever Liss Force Repair Shampoo Rep 1 Lt	True
+10462958	Forever Liss Force Repair Shampoo Rep 1 Lt	False
 10463136	Patins Radical Roller G (38-41) - Bel Sport	False
 10463695	Resma De Papel A4 Report 90gr	False
 10463972	Banqueta em ABS com Encosto Lótus Mor - Preta	False
 10464121	Mini Violão	False
 10464123	Furador Extra Gigante Alavanca 2'' Pomba da Paz	False
-10464144	Furador Borda Max Toke e Crie Taças - 16831 - FBMA13	True
+10464144	Furador Borda Max Toke e Crie Taças - 16831 - FBMA13	False
 10464250	Forma para Pudim Banho Maria Com Tampa - Eirilar	False
 10464275	Ração Nd Gf Frango Cães Filhotes Raças Médias - 10,0kg	False
 10464574	Furador Max Toke e Crie Flor Hélice - 16849 - FMA069	False
@@ -613,7 +613,7 @@ ID	TITLE	SMARTPHONE
 10477826	Base Soft Dailus - Bege Claro	False
 10478217	Dailus Base Líquida Soft Efeito Matte 30g	False
 10478219	Dailus Color - Base Liquida Soft 30g	False
-10479907	Capa Personalizada Exclusiva Nokia Lumia 830 N830 - Fl14	False
+10479907	Capa Personalizada Exclusiva Nokia Lumia 830 N830 - Fl14	True
 10480045	Capa Personalizada Exclusiva Samsung Galaxy Note 4 N910c - At22	False
 10480067	Capa Personalizada Exclusiva Samsung Galaxy Note 4 N910c - Cd18	False
 10480164	Capa Personalizada Exclusiva Samsung Galaxy Note 4 N910c - Ep20	False
@@ -653,8 +653,8 @@ ID	TITLE	SMARTPHONE
 10482573	Conversor Rca/Filtro/Saida Remota St6100 Stetsom	False
 10482895	Smoby-Carrinho De Puxar Gulliver 5031	False
 10482923	Eletroventilador Para Palio, Siena, Strada E Uno Fire - Drift - Dk60205	False
-10483706	Violão Elétrico Michael Folk Vm925dtss Aço - Sunburst Fosco	False
-10483745	Violão Elétrico Michael Folk Vm925dtst Aço - Natural Satin	False
+10483706	Violão Elétrico Michael Folk Vm925dtss Aço - Sunburst Fosco	True
+10483745	Violão Elétrico Michael Folk Vm925dtst Aço - Natural Satin	True
 10483926	Capa De Silicone Fumê Para Lg G3 Stylus	False
 10483928	Capa De Silicone Fumê Para Samsung Galaxy J5	False
 10484035	Capa De Silicone Fumê Para Nokia Lumia 730	False
@@ -662,7 +662,7 @@ ID	TITLE	SMARTPHONE
 10485704	Ábaco Fechado Madeira	False
 10485814	Capa De Silicone Fumê Para Motorola Moto G	False
 10486096	Capa De Silicone Fumê Para Motorola Moto G 2014 2° Geração	False
-10486111	Capa De Silicone Fumê Para Nokia Microsoft Lumia N640 Xl	True
+10486111	Capa De Silicone Fumê Para Nokia Microsoft Lumia N640 Xl	False
 10486112	Estêncil Para Pintura Simples 15x20 Estamparia Abstrata - Opa1212 - Opa	False
 10486749	Banqueta Alta 2 Cores Opzione - Maxima	False
 10488575	Colágeno Clinical Skin (300g) - Body Action	False
@@ -674,7 +674,7 @@ ID	TITLE	SMARTPHONE
 10489507	Fantoche - Animais Selvagens - Pinguim - Papo de Pano	False
 10489822	Detetive Kit De Impressões Digitaisd	False
 10490282	Estêncil Para Pintura Simples 10x30 Bailarina - Opa699 - Opa	False
-10490294	Adaptador Visual Sound L6 Converter Cl6	False
+10490294	Adaptador Visual Sound L6 Converter Cl6	True
 10490453	Cama Exclusive com Auxiliar e Grade de Proteção - Laqueado Branco - Madeira Maciça - CasaTema	False
 10490862	Encordoamento Violão Elixir 011-052 Custom Light Phosphor Bronze (5338)	False
 10491210	Suporte Triplo P/ Guitarra Hercules Gs432b C/ Regulagem De Altura (2787)	False
@@ -697,8 +697,8 @@ ID	TITLE	SMARTPHONE
 10499130	Colchão Casal King Verticoil Smart Preto Sistema c/ Antifungo e Antialérgico - (193x203x23 cm)	False
 10500012	Capa Tpu Xiaomi Redmi 2 - Grafite	True
 10500312	Capa Tpu Lg G Pad 8.3 Polegadas V500 - Transparente	False
-10500622	Capa Personalizada Exclusiva Sony Xperia M2 Aqua D2403 D2406 - At75	False
-10500731	Capa Personalizada Exclusiva Sony Xperia M2 Aqua D2403 D2406 - Cd27	False
+10500622	Capa Personalizada Exclusiva Sony Xperia M2 Aqua D2403 D2406 - At75	True
+10500731	Capa Personalizada Exclusiva Sony Xperia M2 Aqua D2403 D2406 - Cd27	True
 10500795	Refil De Toner Para Brother  Tn 560 | Hl 5040 1kg	False
 10500802	Refil De Toner Para Brother  Tn 460 | Hl 1230 | 1440 | Mfc 9800 1kg	False
 10501070	Toalha C/ Capuz Bichinhos Bordados Ursinho Azul - Papi	False
@@ -714,7 +714,7 @@ ID	TITLE	SMARTPHONE
 10504283	Capa Iphone 4/4s - Tpu Extreme Vermelho	False
 10505254	Toca Do Pirata Com 100 Bolinhas Braskit 620-7 050090	False
 10505301	Placa De Video Msi Geforce Gtx 960 4gb Ddr5 128bits Gtx 960 4gd5t Oc	False
-10505404	Lentes Celular 4 Em 1 Telescopica Zoom 10x Universal Fisheye	False
+10505404	Lentes Celular 4 Em 1 Telescopica Zoom 10x Universal Fisheye	True
 10508089	Capa Personalizada Exclusiva Sony Xperia Z Ultra Xl39h C6802 C6806 - Pe69	False
 10508236	Capa Personalizada Exclusiva Sony Xperia Z3 Compact Mini D5803 D5833 - Vt12	True
 10508284	Capa Personalizada Exclusiva Sony Xperia Z3 Compact Mini D5803 D5833 - Hg01	True
@@ -772,16 +772,16 @@ ID	TITLE	SMARTPHONE
 10517649	Kit 4 Tintas Para Lexmark Universal Aton Black 500ml Cyan Magenta Yellow 100 Ml	False
 10517837	Refil De Toner E Chip Para Xerox 3428 | 3428dn 200g	False
 10518120	Adaptador DVI Fêmea x HDMI Macho - Genérico	False
-10518681	Esmerilhadeira Angular 4.1/2? Gws 6-115 Professional	False
+10518681	Esmerilhadeira Angular 4.1/2? Gws 6-115 Professional	True
 10518883	Capa Galaxy S3 - Mapa Middle Earth / Terra Média - O Hobbit	False
-10519710	Celular Blu Samba Jr Q53 Prata Dual Chip Silver	True
+10519710	Celular Blu Samba Jr Q53 Prata Dual Chip Silver	False
 10522304	Carregador Veicular Combo - Carregador  Power Bank E Lanterna (Cor Preta)	False
-10522654	Relax Salon Line Guanidina Manga Medios Ou Finos 218g	False
+10522654	Relax Salon Line Guanidina Manga Medios Ou Finos 218g	True
 10522781	Shampoo Infantil Acqua Kids Cabelos Cacheados 250ml	False
 10522785	Shampoo Infantil Acqua Kids Maçã E Camomila 250ml	False
 10522788	Shampoo Infantil Acqua Kids Uva E Aloe Vera 250ml	False
 10522939	Shampoo Lorys Kids Blue Shake 500ml	False
-10522943	Shampoo Lorys Kids Red Shake 500ml	True
+10522943	Shampoo Lorys Kids Red Shake 500ml	False
 10523291	Estêncil Para Pintura Simples 10x30 Fundo Do Mar Ii - Opa206 - Opa	False
 10523567	Perfume Ange Ou Deacute.Mon Le Parfum Amp. Son A	False
 10523569	Perfume Royal Marina Turquoise Edp Feminino 100ml	False
@@ -797,7 +797,7 @@ ID	TITLE	SMARTPHONE
 10526732	Cômoda Lila Branco	False
 10527136	Carregador De Bateria 127v Cbv1600 Amarelo Vonder	False
 10527348	Carimbo Em Borracha Com Madeira Flor Catavento 003pri	False
-10527379	Violão Canhoto Elétrico Aço Natural Dallas Tuner Tagima	False
+10527379	Violão Canhoto Elétrico Aço Natural Dallas Tuner Tagima	True
 10528012	Capa Lg L5 Ii Preta Tpu	False
 10528028	Capa Lg L5 Ii Transparente Tpu	False
 10529052	Capa Samsung Galaxy Win Duos I8552 Preta	False
@@ -834,11 +834,11 @@ ID	TITLE	SMARTPHONE
 10538528	Capa De Silicone Fumê Para Nokia 630	False
 10539110	Capa Samsung Galaxy Ace 3 SII Duos Tv TPU Rosa	False
 10539415	Capa Samsung Galaxy Ace 3 SII Duos Tv TPU Azul	False
-10539823	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Cv12	False
+10539823	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Cv12	True
 10539869	Tinta Color Keune 60ml - Cores   6.38 -  Louro Escuro Avelã  6.38 -  Louro Escuro Avelã  6.38 -  Louro Escuro Avelã	False
-10540000	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - At75	False
-10540095	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Pe17	False
-10540120	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Tx55	False
+10540000	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - At75	True
+10540095	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Pe17	True
+10540120	Capa Personalizada Exclusiva Motorola Moto G3 3ª Geração - Tx55	True
 10540860	Cômoda Com 5 Gavetas S725 Kappesberg Branco	False
 10541126	Cooler Ventilador 80x80 X25mm P/Placa Sleeve 3p Evercool	False
 10541884	Kit Shampoo + Condicionador Niely Gold Pós Química	False
@@ -848,12 +848,12 @@ ID	TITLE	SMARTPHONE
 10542092	Máscara Eico Fios De Ouro 240g	False
 10542324	Shampoo Capicilin Redutor De Volume Disciplinante 250ml	False
 10542327	Shampoo Anti Caspa Clear Men Ice Cool Menthol 200ml	False
-10542332	Shampoo Dove Óleo Nutrição 200ml	False
+10542332	Shampoo Dove Óleo Nutrição 200ml	True
 10542369	Shampoo Dove Men  Care Limpeza Refrescante 200ml	False
 10542393	Shampoo Dove Reconstrução Completa 200ml	False
 10542416	Shampoo Anti Caspa Clear Women Crescimento E Força 200Ml	False
 10542446	Shampoo Baby Gotas de Brilho 200ml - Johnson & Johnson	False
-10543402	Wella Professionals Color Touch Pure Naturals 4/0 Castanho Médio 60g	False
+10543402	Wella Professionals Color Touch Pure Naturals 4/0 Castanho Médio 60g	True
 10543603	Capa Silicone Transparente Para Samsung Galaxy S5 Duos  - Underbody	False
 10544056	Capa De Silicone Fumê Para Samsung Galaxy Alpha	False
 10546526	Capa Lg G2 Tpu Preto	False
@@ -869,11 +869,11 @@ ID	TITLE	SMARTPHONE
 10547893	Capa Samsung Galaxy Win Duos Ultra Slim Vermelha	False
 10548357	Bumper Samsung Galaxy S5 Azul	False
 10548926	Capa Lg L70 Tpu Branca	False
-10553279	Bracadeira Samsung Galaxy Alpha	True
-10553283	Bracadeira Iphone 4	True
+10553279	Bracadeira Samsung Galaxy Alpha	False
+10553283	Bracadeira Iphone 4	False
 10553333	Bracadeira Samsung Galaxy A3	False
 10553352	Bracadeira Lg L90	False
-10553363	Bracadeira Iphone 5	True
+10553363	Bracadeira Iphone 5	False
 10553429	Bracadeira Iphone 5c	False
 10553827	Relé Temporizador De Vidros Elétricos	False
 10553848	Tsa 060011 Boias Tubularanjaes Uno, Premio, Elba, Fior	False
@@ -917,7 +917,7 @@ ID	TITLE	SMARTPHONE
 10554420	Placa De Diodos  Gm Omega Australiano 3.8 V6, Kia	False
 10554467	Filtro De Combustivel Wega  Camry, Corolla, Coroll	False
 10554484	Bracadeira Para Moto G	False
-10554506	Bracadeira Samsung Galaxy S4 Mini	True
+10554506	Bracadeira Samsung Galaxy S4 Mini	False
 10554536	Capa iPhone 6 Plus TPU Branco	False
 10554547	Combo 3 + 2 garras longas Espetoflex - Espeto giratório movido a pilha.	False
 10554559	Capa Motorola Moto G2 TPU Preto	False
@@ -951,13 +951,13 @@ ID	TITLE	SMARTPHONE
 10556233	Corante Líquido Amarelo Damasco Com 10ml Mix	False
 10556262	Guardanapo De Papel Roxo Folha Simples 38 X 38cm Pacote Com 50 Unidades Soft Touch	False
 10556315	Canudo De Papel Branco Com Listra Azul Royal Com 20 Unidades Bicão	False
-10556362	Clips 8/0 500g 180 Un - Bacchi	False
+10556362	Clips 8/0 500g 180 Un - Bacchi	True
 10556372	Kit Forminha Poa Rosa Com 24 Unidades Decorplastic	False
 10556383	Bandeja De Acrílico 330 X 390mm Três Triângulos	False
 10556390	Espeto De Madeira Para Churrasco De 250mm Com 100 Unidades Gaboradi	False
 10556404	Pote De Plástico Descartável Para Alimentos Retangular Com Tampa 250ml Com 24 Unidades Prafesta	False
-10556422	Cremeira Wave Vermelha 350ml Ou	False
-10556457	Clips Galvanizados Ref.2 500G. Bacchi	False
+10556422	Cremeira Wave Vermelha 350ml Ou	True
+10556457	Clips Galvanizados Ref.2 500G. Bacchi	True
 10556460	Espeto De Acrílico Para Petisco Coloridos Com 50 Unidades Plastilânia	False
 10556469	Caixa Térmica De Isopor Com Capacidade De 3 Litros Isoterm	False
 10556504	Mexedor Para Café Branco Com 500 Unidades Plastfood	False
@@ -989,7 +989,7 @@ ID	TITLE	SMARTPHONE
 10557964	Minion Luminoso Character Lite - Estrela	False
 10558005	Estêncil Para Pintura Simples 20x25 País México - Opa1331 - Opa	False
 10558842	Caneca Coffee ZOOM	True
-10558976	Teclado Controlador Akai Apc Key 25	False
+10558976	Teclado Controlador Akai Apc Key 25	True
 10559706	Leitor De Código De Barras Datalogic Magellan 3200vsi Usb	False
 10559753	Leitor De Código De Barras Imager Datalogic Qd2430 Usb Preto C/ Suporte	False
 10560520	Fonte 800W modular para PC Gamer e Workstation Pixxo 80+ SLI PFC ativo ATX 2.2 PT800W	False
@@ -1001,7 +1001,7 @@ ID	TITLE	SMARTPHONE
 10562027	Avène Sérénage Nutri Redensifiante Noite 40ml	False
 10562650	Capa iPhone 6 Plus Esmalte Cinza	False
 10562890	Bumper Motorola Moto G2 Branco	False
-10562893	Bumper Motorola Moto G2 Amarelo	False
+10562893	Bumper Motorola Moto G2 Amarelo	True
 10563229	Capa iPhone 6 Cover PC Plus Transparente	False
 10564602	Capa iPhone 6 Cabo USB Branco	False
 10564607	Capa iPhone 6 Cabo USB Preto	False
@@ -1089,7 +1089,7 @@ ID	TITLE	SMARTPHONE
 10571368	Capa Lg G2 Lite D295 Tpu Preto	False
 10571390	Capa Lg Prime Tpu Branco	False
 10571404	Capa Lg Prime Tpu Preto	False
-10571454	Active C Cr Anti Rugas 30ml	True
+10571454	Active C Cr Anti Rugas 30ml	False
 10571457	Gel de Limpeza Facial Effaclar - 60g	False
 10571510	Capa Lg Prime Tpu Rosa	False
 10571628	Capa Samsung Galaxy S5 Mini Tripla Proteção Preto	False
@@ -1130,7 +1130,7 @@ ID	TITLE	SMARTPHONE
 10579158	Control System Professional Vibrant Hair Spray - Spray de Fixação 400ml	False
 10579357	Schwarzkopf 3D Men Molding Wax 100 ml	False
 10579361	Schwarzkopf Professional 3D Men Deep Cleansing - Shampoo 1000ml	False
-10579380	Aneethun Style Creme Gel - 150 g	True
+10579380	Aneethun Style Creme Gel - 150 g	False
 10579453	Schwarzkopf 3Dmension Shampoo Antioliosidade - 250ml	False
 10580486	Mediterrani Equal Shampoo 250 Ml	False
 10580536	Capa Transparente - Samsung Galaxy A5 - Cristal Flexível Premium	False
@@ -1138,11 +1138,11 @@ ID	TITLE	SMARTPHONE
 10580657	Película De Vidro - Samsung Galaxy J5 J500f	False
 10580669	Capa Flexível - Samsung Galaxy J5	False
 10580726	Capa Transparente 6g Plus - Cristal Flexível Premium	False
-10580727	Capa Transparente Xperia Z3 - Cristal Flexível Premium	True
+10580727	Capa Transparente Xperia Z3 - Cristal Flexível Premium	False
 10580736	Capa Flexível - Samsung Galaxy A3	False
 10580743	Capa Transpararente Xperia M4 Ou M4 Aqua - Cristal Flexível Premium	True
-10580745	Capa Flexível - Asus Zenfone 6	True
-10580771	Capa Flexível - Sony Xperia Z4	True
+10580745	Capa Flexível - Asus Zenfone 6	False
+10580771	Capa Flexível - Sony Xperia Z4	False
 10580772	Capa Transparente Iphone 4g/S - Cristal Flexível Premium	False
 10580838	Capa Transparente - Samsung Galaxy S4 Mini - G9190 - Cristal Flexível Premium	False
 10580906	Capa Para Celular Samsung Galaxy E5 E500 Em Tpu Transparente	False
@@ -1171,7 +1171,7 @@ ID	TITLE	SMARTPHONE
 10583565	Capa Para Samsung Galaxy Gran Prime Preta	False
 10583879	Capa Carteira Para Mororola Moto E2	False
 10584217	Adaptador De Placa De Som 7.1 Usb Knup Hb-T64	False
-10584226	Capa Tpu Motorola Moto G3 3ª Geração - Grafite	False
+10584226	Capa Tpu Motorola Moto G3 3ª Geração - Grafite	True
 10584288	Capa Motorola Moto G TPU Rosa	False
 10584298	Capa Motorola Moto G PC Emborrachado Rosa	False
 10585512	Pelicula De Vidro Para Celular Asus Zenfone 6	False
@@ -1281,7 +1281,7 @@ ID	TITLE	SMARTPHONE
 10595625	Chave Biela 11 Mm Aço Carbono - 250b - Robust	False
 10595775	Ancinho Curvo Leve Com Cabo De Madeira 150 Mm 16 Dentes - 77101/644 - Tramontina	False
 10595810	Chave hexalobular tipo L T30 longa -  43TXL - Gedore	False
-10596046	Memoria 4gb 2x 2gb Compaq Pavilion Hdx16t Ddr2-800 Pc2-6400 Notebook	True
+10596046	Memoria 4gb 2x 2gb Compaq Pavilion Hdx16t Ddr2-800 Pc2-6400 Notebook	False
 10596225	Estêncil Para Pintura Simples 15x20 Estamparia Geométrica - Opa1064 - Opa	False
 10596622	Kit Plataforma Para Posicionamento Transversal Do Escorregador - Mel - Casatema	False
 10596766	Quebra-Cabeça Em Blocos De Madeira Família 36 Peças 52709 - Xalingo	False
@@ -1331,12 +1331,12 @@ ID	TITLE	SMARTPHONE
 10601804	Cartão de Memória 16GB Micro SDHC com Adaptador SRAC-A1 - Sony	False
 10601999	Cadeira Side Infantil Base Madeira Laranja Cadsif-Ma-Lr By Haus	False
 10602635	Pelicula De Vidro Temperado Xiaomi Redmi	False
-10603893	Capa Samsung Galaxy S4 New York	False
+10603893	Capa Samsung Galaxy S4 New York	True
 10603921	Capa Nokia 720 TPU Roxo	False
 10604067	Capa Samsung Galaxy Fame/Fame Duos Pc Preto	False
 10604071	Capa Samsung Tab 3 7 Rotate Marrom	False
 10604072	Capa Samsung Galaxy Mega 6.3 Flip Rosa	False
-10604073	Capa Motorola D1 Pc Colorido You Make Me Smile	False
+10604073	Capa Motorola D1 Pc Colorido You Make Me Smile	True
 10604076	Capa Samsung Galaxy Fame Flip Preto	False
 10604078	Capa Samsung Tab 3 8 Rotate Rosa	False
 10604082	Capa Samsung Galaxy S4 Caveira Pc Preto	False
@@ -1385,7 +1385,7 @@ ID	TITLE	SMARTPHONE
 10611911	Capa para Vade Mecum com Alça de Ombro Inspiração	False
 10612144	Cooktop Fischer Vitrocerâmico 2 Bocas Preto Indução Elétrico 220V	False
 10612210	Móbile Musical Giratório Infantil Sol 20055 - Braskit	False
-10613857	Co Tresemme Blindagem Platinum 400ml	False
+10613857	Co Tresemme Blindagem Platinum 400ml	True
 10614297	Colchão Mimi Cama Ecoline Natural 150X070x012 D18 - ECOFLEX	False
 10615480	Sapatilha Lilly's Closet Com Laço	False
 10615481	Sapatilha Metalizada Lilly's Closet Com Laço	False
@@ -1403,10 +1403,10 @@ ID	TITLE	SMARTPHONE
 10616652	Colchão Casal Queen Ecoline D-45 C/ Sistema Antiácaro, Antifungo E Antialérgico (158x198x25)	False
 10617233	Colchão Ecoline Espuma Altura 25cm D40 Branco Ecoflex Antifungo E Antialérgico	False
 10617247	Colchão Casal Ecoline D-33 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x20)	False
-10617250	Colchão Casal Ecoline D-23 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x17)	False
+10617250	Colchão Casal Ecoline D-23 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x17)	True
 10617253	Colchão Casal Ecoline D23 Sistema Antiácaro, Antifungo e Antialérgico 138x188cm - Ecoflex	False
 10617261	Colchão Casal Ecoline D-33 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x14)	False
-10617264	Colchão Casal Ecoline D-23 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x20)	False
+10617264	Colchão Casal Ecoline D-23 C/ Sistema Antiácaro, Antifungo E Antialérgico (138x188x20)	True
 10617954	Capa para Vade Mecum com Alça de Ombro Nobreza	False
 10617956	Base Liquida Soft Dailus - 08 30g - Bege Escuro	False
 10618134	Cama Infantil Prime Com Grade De Proteção, Telhado Completo E Kit Escadinha/ Escorrega - Casatema	False
@@ -1514,7 +1514,7 @@ ID	TITLE	SMARTPHONE
 10630435	Capa Lg L3 Ii Tpu Preto	False
 10630921	Fritadeira Kit Fritas Eirilar 2,5 Litros com Grelha Removível	False
 10631886	Cabo Apple Cabo De Lightning Para Usb (2m) (Md819bz/A)	False
-10631906	Caneca Porcelana Dc Coringa- 300 Ml	False
+10631906	Caneca Porcelana Dc Coringa- 300 Ml	True
 10631931	Kit 4 Tintas Para Epson Bulk Ink 196 Black 1 Litro Coloridas 500ml Compatível	False
 10632179	Capa Motorola Moto E Rosas	False
 10632405	Capa Motorola Moto G TPU Esmalte Dourado	False
@@ -1524,7 +1524,7 @@ ID	TITLE	SMARTPHONE
 10632705	Relógio Diesel Doubledown Dz4313/Bn	False
 10633073	Capa Motorola Moto G Couro Carteira Branco	False
 10633360	Churrasqueira A Gás Para 20 Espetinhos Em Inox Agi-20 - Arke	False
-10633439	Bag Rockbag Eco Line P/ Violão Clássico Rb 20538 B	False
+10633439	Bag Rockbag Eco Line P/ Violão Clássico Rb 20538 B	True
 10634581	Tinta Sublimatica Inkprinter Para Transfer E Sublimação Impressora Epson (4x250 Ml)	False
 10634831	Capa para Vade Mecum com Alça de Ombro Veneza	False
 10634876	Episol Color Morena Mais Fps30 Loc 40g	False
@@ -1587,7 +1587,7 @@ ID	TITLE	SMARTPHONE
 10637502	Capa Samsung Galaxy S3 I9300 Silicone Branco	False
 10637504	Capa Samsung Galaxy S4 Pc Robotic Mod 2 Silicone Branco	False
 10637505	Capa Lg L3 Ii Carteira De Couro Branco	False
-10637516	Capa Lg L5 Ii Pc Smile	False
+10637516	Capa Lg L5 Ii Pc Smile	True
 10637517	Bumper Motorola Moto G Rosa	False
 10637521	Capa Samsung Galaxy S4 TPU Duplo Branco e Preto	False
 10637530	Capa Motorola D1 TPU Vermelho	False
@@ -1643,7 +1643,7 @@ ID	TITLE	SMARTPHONE
 10638194	Bumper Samsung Galaxy S5 Vermelho	False
 10638201	Capa iPhone 6 Cabo Vermelho	False
 10638204	Capa Motorola D1 TPU Preto	False
-10638205	Capa Samsung Galaxy S4 Flip Rosa	False
+10638205	Capa Samsung Galaxy S4 Flip Rosa	True
 10638206	Capa Samsung Galaxy S Duos 2 S7582/S Duos Branco	False
 10638215	Capa Nokia 501 TPU Branco	False
 10638223	Capa Samsung S3 Duos TPU Branco	False
@@ -1656,7 +1656,7 @@ ID	TITLE	SMARTPHONE
 10638264	Capa Samsung Galaxy S Duos S7562 Rosa	False
 10638267	Bumper Samsung Galaxy Gran Duos Rosa	False
 10638271	Capa Samsung Galaxy S4 Vermelho	False
-10638273	Capa Lg L5 Ii Tpu Amarelo	False
+10638273	Capa Lg L5 Ii Tpu Amarelo	True
 10638277	Capa Samsung Galaxy S4 PC+TPU Samsung Branco/Transparente	False
 10638280	Bumper Duplo Iphone 6 Preto/Vermelho	False
 10638284	Capa Nokia 520 TPU Gel Branco	False
@@ -1666,7 +1666,7 @@ ID	TITLE	SMARTPHONE
 10638300	Capa Samsung Galaxy S4 Flip Branco	False
 10638304	Capa Nokia 625 TPU Preto	False
 10638321	Capa Samsung Galaxy Young Tpu Azul	False
-10638325	Capa Lg L5 Ii Tpu Roxo	False
+10638325	Capa Lg L5 Ii Tpu Roxo	True
 10638327	Capa Motorola Moto G Tpu Love Cartoon	False
 10638331	Capa Nokia 520 TPU Gel Preto	False
 10638333	Capa Samsung Galaxy Pocket Neo S5310 TPU Amarelo	False
@@ -1727,7 +1727,7 @@ ID	TITLE	SMARTPHONE
 10644721	Cooler Cpu Server Supermicro 2u Lga2011/1356 Ativo Sist. Parafuso Com Bracket Snk-P0048ap4	False
 10644826	Neovadiol Gf Olhos 15ml	False
 10644874	Actine Darrow - Sabonete Barra 80g	False
-10645012	Print Server Tp-Link Tl-Ps110p Pararelo	False
+10645012	Print Server Tp-Link Tl-Ps110p Pararelo	True
 10645332	Epidrat Prot Labial 5,5g	False
 10645363	Dvd Matheus  Kauan - Face A Face  Ec	False
 10645422	Marie-Kit Colher E Garfo Daiwa Y-242	False
@@ -1779,7 +1779,7 @@ ID	TITLE	SMARTPHONE
 10646005	Capa Samsung Galaxy Gran Duos Verde - Idea	False
 10646015	Capa Nokia 620 TPU Amarelo - IDEA	False
 10646018	Capa Samsung Galaxy S4 PC Quatro Pontos Cinza - IDEA	False
-10646032	Capa Samsung Galaxy S4 I9500 Flip Cinza - Idea	False
+10646032	Capa Samsung Galaxy S4 I9500 Flip Cinza - Idea	True
 10646034	Capa Samsung Galaxy S3 PC Rosa - IDEA	False
 10646035	Capa Samsung Galaxy Gran Duos Amarelo - Idea	False
 10646052	Capa Samsung Galaxy S4 PC Branco - IDEA	False
@@ -1839,7 +1839,7 @@ ID	TITLE	SMARTPHONE
 10650844	Dermotivin Control Sabonete Líquido Com 120ml	False
 10650968	Dermotivin Salix Sabonete Em Barra Com 90 Gramas	False
 10650975	Episol Color Loção Fps 30 Cor Morena Com 40 Gramas	False
-10650989	Sabonete Facial Dermotivin Salix Foam Espuma 130mL	False
+10650989	Sabonete Facial Dermotivin Salix Foam Espuma 130mL	True
 10651006	Bota Imobilizadora Curta Para Tornozelo Nova Geração Robofoot 608 Salvape	False
 10651150	Albumina 500g Naturovos	False
 10651947	Capacete MTB com Revestimento Interno Atrio M BI037 Azul - Multilaser	False
@@ -1858,14 +1858,14 @@ ID	TITLE	SMARTPHONE
 10653452	Cabo De Dados E Carregador Estilo Corda Micro Usb  Metros - Azul	False
 10653453	Cabo De Dados E Carregador Estilo Corda Micro Usb  Metros - Branco	False
 10653457	Powerbank Carregador Bateria Portatil Universal Pineng 10000mah - Laranja	False
-10653477	Capa Tpu Motorola Moto G3 Xt1543 Xt1544 3ª Geração Transparente	False
+10653477	Capa Tpu Motorola Moto G3 Xt1543 Xt1544 3ª Geração Transparente	True
 10653560	Capa Personalizada Exclusiva Samsung Galaxy Note 3 Neo Duos N7502 S7502 N7505 - De06	False
 10653567	Capa Personalizada Exclusiva Samsung Galaxy S5 Mini G800 - De03	False
 10653716	Capa Personalizada Exclusiva Samsung Galaxy E5 E500 E500h E500hq E500m - De06	False
 10653727	Powerbank Carregador Bateria Portatil Universal Pineng 10000mah - Cinza	False
 10653730	Capa De Tpu Lg G4 H815p H818p Grafite	False
 10653745	Capa Transparente E Película Underbody Nokia Lumia 53	False
-10653877	Capa Personalizada Exclusiva Asus Zenfone 5 A501 - De03	False
+10653877	Capa Personalizada Exclusiva Asus Zenfone 5 A501 - De03	True
 10653925	Capa Transparente E Película Underbody Samsung Galaxy S4 Mini	False
 10654113	Ivy C Com 30 Gramas	False
 10654377	Roc Pro Renove Fluído Com 40 Ml	False
@@ -1875,7 +1875,7 @@ ID	TITLE	SMARTPHONE
 10654510	Capa Transparente E Película Underbody Lg G3 Mini	False
 10654512	Capa Transparente E Película Underbody  Nokia Lumia 830	False
 10654520	Calcanheira Silicone P/ Desvio De Calcâneo Ortho Pauher	False
-10654530	Bateria P/ Aparelho Auditivo Power One P-675	False
+10654530	Bateria P/ Aparelho Auditivo Power One P-675	True
 10654672	Cicalfate Crème Réparatrice Avène - Hidratante Facial 100ml	False
 10654759	Capa Transparente E Película Underbody Iphone 5	False
 10654762	Capa Transparente E Película Underbody Iphone 4	False
@@ -2027,27 +2027,27 @@ ID	TITLE	SMARTPHONE
 10665869	Capa Transparente E Película Underbody Motorola Moto G Dual	False
 10665904	Pelicula Lg G3 Stylus Anti Impacto - Idea	False
 10666088	Assento Inflável Redondo Anti Escaras Caixa De Ovo 101-01	False
-10666199	Pelicula Sony Xperia U Anti-Reflexo	True
+10666199	Pelicula Sony Xperia U Anti-Reflexo	False
 10666214	Bota Imobilizadora Longa Fashionpauher AC-208 Preta Orthopauher	False
 10666229	Capa Transparente E Película Underbody Microsoft Lumia 730 Dual	False
 10666270	Capa Transparente E Película Underbody Iphone 5	False
 10666318	Bateria P/ Aparelho Auditivo Power One P-10	False
 10666320	Calcanheira De Gel Adesivo Confort Pauher R.830 Orthopauher	False
 10666323	Calcanheira Silicone Siligel R. 1001 Orthopauher	False
-10693619	"Smartphone Lenovo Vibe K6 Plus Grafite com 32GB, Tela 5.5"", Câmera 16MP, 4G, Dual Chip, Android 6.0, RAM de 3GB e Processador Qualcomm Octa-Core"	True
-10693632	"Smartphone Lenovo Vibe K6 Plus Dourado com 32GB, Tela 5.5"", Câmera 16MP, 4G, Dual Chip, Android 6.0, RAM de 3GB e Processador Qualcomm Octa-Core"	True
-11051210	"Smartphone Samsung Galaxy S7 edge Black Piano com 128GB, Tela 5.5"", Android 6.0, 4G, Câmera 12MP, Processador Octa-Core e 4GB RAM"	True
+10693619	"Smartphone Lenovo Vibe K6 Plus Grafite com 32GB, Tela 5.5"", Câmera 16MP, 4G, Dual Chip, Android 6.0, RAM de 3GB e Processador Qualcomm Octa-Core"	False
+10693632	"Smartphone Lenovo Vibe K6 Plus Dourado com 32GB, Tela 5.5"", Câmera 16MP, 4G, Dual Chip, Android 6.0, RAM de 3GB e Processador Qualcomm Octa-Core"	False
+11051210	"Smartphone Samsung Galaxy S7 edge Black Piano com 128GB, Tela 5.5"", Android 6.0, 4G, Câmera 12MP, Processador Octa-Core e 4GB RAM"	False
 11051263	"Smartphone LG K10 Novo M250DS Titânio com 32GB, Dual Chip, Tela de 5.3"" HD, 4G, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz"	False
 11051270	"Smartphone LG K10 Novo M250DS Preto com 32GB, Dual Chip, Tela de 5.3"" HD, 4G, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz"	False
 11051274	"Smartphone LG K10 M250DS Novo Dourado com 32GB, Dual Chip, Tela de 5.3"" HD, 4G, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz"	False
 11051280	Smartphone LG K10 TV Power Índigo com 32GB, Dual Chip, Tela de 5,5”, HD, TV Digital, 4G, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz	False
 11051284	"Smartphone LG K10 TV Power Titânio com 32GB, Dual Chip, Tela de 5.5"" HD, TV Digital, 4G, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz"	False
 11051299	"Smartphone LG K10 Pro LGM400DF Titânio com 32GB, Dual Chip, Tela de 5.7"" HD, Android 7.0, Câmera 13MP e Processador Octa Core de 1.5 GHz"	False
-11433803	Smartphone ASUS Zenfone 3 Max ZC553KL Cinza com 32GB, Tela de 5.5, Dual Chip, Android 6.0, 4G, Câmera 16MP, Processador Octa-Core e 3GB de RAM	True
+11433803	Smartphone ASUS Zenfone 3 Max ZC553KL Cinza com 32GB, Tela de 5.5, Dual Chip, Android 6.0, 4G, Câmera 16MP, Processador Octa-Core e 3GB de RAM	False
 11482037	Smartphone Samsung Galaxy S8 Plus Dual Chip Prata com 64GB, Tela 6.2”, Android 7.0, 4G, Câmera 12MP e Octa-Core	False
 11482047	"Smartphone Samsung Galaxy S8 Plus Dual Chip Ametista com 64GB, Tela 6.2"", Android 7.0, 4G, Câmera 12MP e Octa-Core"	False
 11482056	Smartphone Samsung Galaxy S8 Plus Dual Chip Preto com 64GB, Tela 6.2”, Android 7.0, 4G, Câmera 12MP e Octa-Core	False
-11500460	Smartphone ASUS Zenfone 3 Zoom ZE553KL Preto com 64GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 4GB de RAM	True
+11500460	Smartphone ASUS Zenfone 3 Zoom ZE553KL Preto com 64GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 4GB de RAM	False
 11516037	Smartphone Motorola Moto E4 Plus Azul Safira 16GB, Tela 5.5'', Dual Chip, Android 7.1, Bateria 5.000 mAh, Câmera 13MP, Processador Quad-Core e 2GB RAM	False
 11516052	Smartphone Motorola Moto E4 XT1763 Ouro Rose com 16GB, Tela 5'', Dual Chip, Android 7.1, 4G, Câmera 8MP, Processador Quad-Core e 2GB de RAM	False
 11516060	Smartphone Motorola Moto E4 XT1763 Titanium com 16GB, Tela 5'', Dual Chip, Android 7.1, 4G, Câmera 8MP, Processador Quad-Core e 2GB de RAM	False
@@ -2055,54 +2055,54 @@ ID	TITLE	SMARTPHONE
 11516082	Smartphone Motorola Moto E4 Plus Titanium 16GB, Tela 5.5'', Dual Chip, Android 7.1, Bateria 5.000 mAh, Câmera 13MP, Processador Quad-Core e 2GB de RAM	False
 11516085	Smartphone Motorola Moto E4 Plus Ouro 16GB, Tela 5.5'', Dual Chip, Android 7.1, Bateria 5.000 mAh, Câmera 13MP, Processador Quad-Core e 2GB de RAM	False
 11516093	Smartphone Motorola Moto E4 XT1763 Azul Safira com 16GB, Tela 5'', Dual Chip, Android 7.1, 4G, Câmera 8MP, Processador Quad-Core e 2GB de RAM	False
-11516095	Smartphone Motorola Moto Z2 Play Power Edition Ouro 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
+11516095	Smartphone Motorola Moto Z2 Play Power Edition Ouro 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
 11516099	Smartphone Motorola Moto Z2 Play Sound Edition Platinum 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
 11516101	Smartphone Motorola Moto Z2 Play Sound Edition Ouro 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
 11516103	Smartphone Motorola Moto Z2 Play Projector Edition Platinum 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
 11516105	Smartphone Motorola Moto Z2 Play XT1710 Ouro com 64GB, Tela de 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
 11516108	Smartphone Motorola Moto Z2 Play XT1710 Platinum com 64GB, Tela de 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
-11516109	Smartphone Motorola Moto Z2 Play Power Edition Platinum 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
+11516109	Smartphone Motorola Moto Z2 Play Power Edition Platinum 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
 11516120	Smartphone Motorola Moto Z2 Play XT1710 Azul Topázio com 64GB, Tela de 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
-11516848	Smartphone ASUS Zenfone 3 Zoom ZE553KL Prata com 32GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 3GB de RAM	True
-11516983	Smartphone ASUS Zenfone 3 Zoom ZE553KL Rosa com 64GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 4GB de RAM	True
+11516848	Smartphone ASUS Zenfone 3 Zoom ZE553KL Prata com 32GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 3GB de RAM	False
+11516983	Smartphone ASUS Zenfone 3 Zoom ZE553KL Rosa com 64GB, Tela 5.5, Dual Chip, Android 6.0, 4G, Câmera Dual 12MP, Processador Octa-Core e 4GB de RAM	False
 11548157	"Smartphone Samsung Galaxy J7 Neo Dourado com 16GB, Tela 5.5"", Câmera 13MP, TV Digital HD, Dual Chip, Android, 7.0, Processador Octa Core e 2GB RAM"	False
 11548183	"Smartphone Samsung Galaxy J7 Neo Preto com 16GB, Tela 5.5"", Câmera 13MP, TV Digital HD, Dual Chip, Android, 7.0, Processador Octa Core e 2GB RAM"	False
-11614697	Smartphone LG K4 Novo, Titânio, X230DS,Tela de 5´´, 8GB, 8MP, OI	True
+11614697	Smartphone LG K4 Novo, Titânio, X230DS,Tela de 5´´, 8GB, 8MP, OI	False
 11633185	Smartphone Samsung Galaxy On7 G600FY 4G, Dual, Tela de 5.5 Polegadas, 16GB, Câmera de 13MP e Android 5.1	False
-11654012	"Smartphone Asus Zenfone 3 Zoom ZE553KL Prata 64GB, Tela 5.5"", Dual Chip, Câmera 13MP, 4G, Android 6.0, Processador Octa-Core e RAM de 4GB"	True
-11666282	Smartphone LG Q6+ Platinum com 64GB, Tela 5.5”, Android 7.0, 4G, Câmera 13MP, Processador Octa-Core e 4GB de RAM	True
-11700707	Smartphone Motorola Moto G5s Plus XT1802 Platinum 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	True
+11654012	"Smartphone Asus Zenfone 3 Zoom ZE553KL Prata 64GB, Tela 5.5"", Dual Chip, Câmera 13MP, 4G, Android 6.0, Processador Octa-Core e RAM de 4GB"	False
+11666282	Smartphone LG Q6+ Platinum com 64GB, Tela 5.5”, Android 7.0, 4G, Câmera 13MP, Processador Octa-Core e 4GB de RAM	False
+11700707	Smartphone Motorola Moto G5s Plus XT1802 Platinum 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	False
 11700710	Smartphone Motorola Moto G5s XT1792 Platinum com 32GB, Tela de 5.2'', Dual Chip, Android 7.1, 4G, Câmera 16MP, Processador Octa-Core e 2GB de RAM	False
-11700714	Smartphone Motorola Moto G5s Plus XT1802 Azul Topázio 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	True
-11700716	Smartphone Motorola Moto G5s Plus XT1802 Ouro Rosé 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	True
+11700714	Smartphone Motorola Moto G5s Plus XT1802 Azul Topázio 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	False
+11700716	Smartphone Motorola Moto G5s Plus XT1802 Ouro Rosé 32GB, Tela 5.5'', Dual Chip, TV Digital, Android 7.1, Câmera Traseira Dupla 13MP e 3GB RAM	False
 11700720	Smartphone Motorola Moto G5s XT1792 Ouro com 32GB, Tela de 5.2'', Dual Chip, Android 7.1, 4G, Câmera 16MP, Processador Octa-Core e 2GB de RAM	False
 11811144	Smartphone Motorola Moto Z2 Play GamePad Edition Platinum 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
-11811145	Smartphone Motorola Moto Z2 Play 360 Câmera Edition Topázio 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	True
-11822323	"Smartphone Asus Zenfone 4 Max ZC554KL Preto com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	True
-11822328	"Smartphone Asus Zenfone 4 Max ZC554KL Gold com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	True
-11822329	"Smartphone Asus Zenfone 4 Max ZC554KL Rosa com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	True
-11822336	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822337	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Vermelho 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822340	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822356	"Smartphone Asus Zenfone 4 Selfie ZD553KL Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822364	"Smartphone Asus Zenfone 4 Max ZC554KL Rosa com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	True
-11822367	"Smartphone Asus Zenfone 4 Selfie ZD553KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822369	"Smartphone Asus Zenfone 4 ZE554KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822372	"Smartphone Asus Zenfone 4 Max ZC554KL Gold com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	True
-11822373	"Smartphone Asus Zenfone 4 Selfie ZD553KL Rose Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822377	"Smartphone Asus Zenfone 4 Selfie ZD553KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822381	"Smartphone Asus Zenfone 4 ZE554KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	True
-11822386	"Smartphone Asus Zenfone 4 Max ZC554KL Preto com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	True
-11822388	"Smartphone Asus Zenfone 4 ZE554KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	True
-11822392	"Smartphone Asus Zenfone 4 ZE554KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822393	"Smartphone Asus Zenfone 4 ZE554KL Branco com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	True
-11822405	"Smartphone Asus Zenfone 4 ZE554KL Branco com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	True
-11823246	"Smartphone Sony Xperia XA1 G3116 Branco com 32GB, Tela 5"" HD, Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 3GB RAM"	True
-11823248	"Smartphone Sony Xperia XA1 Plus G3426 Preto com 32GB, Tela 5,5"", Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 4GB RAM"	True
-11823251	"Smartphone Sony Xperia XA1 Plus G3426 Dourado com 32GB, Tela 5,5"", Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 4GB RAM"	True
-11823252	"Smartphone Sony Xperia XZ1 G8341 Preto com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	True
-11823263	"Smartphone Sony Xperia XZ1 G8341 Azul com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	True
-11823304	"Smartphone Sony Xperia XZ1 G8341 Rose com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	True
+11811145	Smartphone Motorola Moto Z2 Play 360 Câmera Edition Topázio 64GB, Tela 5.5'', Dual Chip, Câmera 12MP, Android 7.1, Processador Octa-Core e 4GB de RAM	False
+11822323	"Smartphone Asus Zenfone 4 Max ZC554KL Preto com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	False
+11822328	"Smartphone Asus Zenfone 4 Max ZC554KL Gold com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	False
+11822329	"Smartphone Asus Zenfone 4 Max ZC554KL Rosa com 16GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Quad Core e 2GB RAM"	False
+11822336	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822337	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Vermelho 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822340	"Smartphone Asus Zenfone 4 Selfie Pro ZD552KL Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822356	"Smartphone Asus Zenfone 4 Selfie ZD553KL Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822364	"Smartphone Asus Zenfone 4 Max ZC554KL Rosa com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	False
+11822367	"Smartphone Asus Zenfone 4 Selfie ZD553KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822369	"Smartphone Asus Zenfone 4 ZE554KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822372	"Smartphone Asus Zenfone 4 Max ZC554KL Gold com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	False
+11822373	"Smartphone Asus Zenfone 4 Selfie ZD553KL Rose Gold com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822377	"Smartphone Asus Zenfone 4 Selfie ZD553KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Frontal Dupla, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822381	"Smartphone Asus Zenfone 4 ZE554KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	False
+11822386	"Smartphone Asus Zenfone 4 Max ZC554KL Preto com 32GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 3GB RAM"	False
+11822388	"Smartphone Asus Zenfone 4 ZE554KL Verde com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	False
+11822392	"Smartphone Asus Zenfone 4 ZE554KL Preto com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822393	"Smartphone Asus Zenfone 4 ZE554KL Branco com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 4GB RAM"	False
+11822405	"Smartphone Asus Zenfone 4 ZE554KL Branco com 64GB, Tela 5.5"", Dual Chip, Câmera Traseira Dupla, 4G, Android 7.0, Processador Octa Core e 6GB RAM"	False
+11823246	"Smartphone Sony Xperia XA1 G3116 Branco com 32GB, Tela 5"" HD, Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 3GB RAM"	False
+11823248	"Smartphone Sony Xperia XA1 Plus G3426 Preto com 32GB, Tela 5,5"", Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 4GB RAM"	False
+11823251	"Smartphone Sony Xperia XA1 Plus G3426 Dourado com 32GB, Tela 5,5"", Dual Chip, Câmera 23MP, 4G, Android 7.0, Processador Octa-Core e 4GB RAM"	False
+11823252	"Smartphone Sony Xperia XZ1 G8341 Preto com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	False
+11823263	"Smartphone Sony Xperia XZ1 G8341 Azul com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	False
+11823304	"Smartphone Sony Xperia XZ1 G8341 Rose com 64GB, Tela 5,2"", Single Chip, Câmera 19MP, 4G, Android 8.0, Processador Octa-Core e 4GB RAM"	False
 11823323	iPhone 8 Apple Plus com 64GB, Tela Retina HD de 5,5”, iOS 11, Dupla Câmera Traseira, Resistente à Água, Wi-Fi, 4G LTE e NFC - Cinza-Espacial	False
 11823349	iPhone 8 Apple Plus com 256GB, Tela Retina HD de 5,5”, iOS 11, Dupla Câmera Traseira, Resistente à Água, Wi-Fi, 4G LTE e NFC - Dourado	False
 11823357	iPhone 8 Apple Plus com 256GB, Tela Retina HD de 5,5”, iOS 11, Dupla Câmera Traseira, Resistente à Água, Wi-Fi, 4G LTE e NFC - Cinza-Espacial	False
@@ -2114,69 +2114,69 @@ ID	TITLE	SMARTPHONE
 12138109	"Smartphone Samsung Galaxy A8 Plus Dourado com 64GB, Dual Chip, Display Infinito de 6"", Android 7.1, Câmera 16MP, Proteção IP68, Octa Core e RAM de 4GB"	False
 12138110	"Smartphone Samsung Galaxy A8 Plus Preto com 64GB, Dual Chip, Display Infinito de 6"", Android 7.1, Câmera 16MP, Proteção IP68, Octa Core e RAM de 4GB"	False
 12564960	"Smartphone Samsung Galaxy S9 Plus Cinza 128GB, Tela Infinita de 6.2"", Dual Chip, Android 8.0, Câmera Dupla de 12MP, 6GB de RAM e Processador Octa-Core"	False
-12564961	"Smartphone Samsung Galaxy S9 Plus Ultravioleta 128GB, Tela Infinita 6.2"", Dual Chip, Android 8.0, Câmera Dupla de 12MP, 6GB RAM e Processador OctaCore"	True
+12564961	"Smartphone Samsung Galaxy S9 Plus Ultravioleta 128GB, Tela Infinita 6.2"", Dual Chip, Android 8.0, Câmera Dupla de 12MP, 6GB RAM e Processador OctaCore"	False
 12564975	"Smartphone Samsung Galaxy S9 Plus Preto 128GB, Tela Infinita de 6.2"", Dual Chip, Android 8.0, Câmera Dupla de 12MP, 6GB de RAM e Processador Octa-Core"	False
-12669434	Smartphone Motorola Moto G6 Play XT1922 Índigo com 32GB, Tela de 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Octa-Core e 3GB de RAM	True
-12669436	Smartphone Motorola Moto G6 Play XT1922 Ouro com 32GB, Tela de 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Octa-Core e 3GB de RAM	True
+12669434	Smartphone Motorola Moto G6 Play XT1922 Índigo com 32GB, Tela de 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Octa-Core e 3GB de RAM	False
+12669436	Smartphone Motorola Moto G6 Play XT1922 Ouro com 32GB, Tela de 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Octa-Core e 3GB de RAM	False
 12727827	"Smartphone Motorola Moto G6 Plus XT1926 Índigo 64GB, Tela de 5.9"", Dual Chip, Android 8.0, Câmera Traseira Dupla, Processador Octa-Core e 4GB de RAM"	False
-12731640	iPhone 8 Plus Apple RED Special Edition 64GB Tela Retina HD 5.5” iOS11 Câmera Dupla 12MP Vermelho	True
-12731651	iPhone 8 Plus Apple RED Special Edition 256GB Tela Retina HD 5.5” iOS11 Câmera Dupla 12MP Vermelho	True
+12731640	iPhone 8 Plus Apple RED Special Edition 64GB Tela Retina HD 5.5” iOS11 Câmera Dupla 12MP Vermelho	False
+12731651	iPhone 8 Plus Apple RED Special Edition 256GB Tela Retina HD 5.5” iOS11 Câmera Dupla 12MP Vermelho	False
 12731786	Smartphone Samsung Galaxy S8 Plus Dual Chip Prata com 64GB, Tela 6.2”, Android 7.0, 4G, Câmera 12MP e Octa-Core - CLARO	False
 12842697	Smartphone Motorola Moto E5 XT1944 Ouro com 16GB, Tela 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Quad-Core e 2GB de RAM	False
 12842708	Smartphone Motorola Moto E5 XT1944 Platinum com 16GB, Tela 5.7'', Dual Chip, Android 8.0, 4G, Câmera 13MP, Processador Quad-Core e 2GB de RAM	False
-12950125	Smartphone Motorola Moto Z3 Play Gamepad Índigo 64GB, Tela 6'', Dual Chip, Câmera Traseira Dupla, Android 8.1, Processador Octa-Core e 4GB de RAM	True
+12950125	Smartphone Motorola Moto Z3 Play Gamepad Índigo 64GB, Tela 6'', Dual Chip, Câmera Traseira Dupla, Android 8.1, Processador Octa-Core e 4GB de RAM	False
 22374121	"Celular Alcatel Pixi 4 - 5010e Lite, Dual Chip, Tv Digital, Tela 5"", 8gb, Câmera 8mp E Frontal 8mp C"	False
 22996794	"Celular Smartphone Tp-link Neffos C5l 4g Lte 4.5"" 8gb Branco"	True
 27797661	Motorola Moto C Plus XT1726	True
 28304576	Smartphone Motorola Moto C Plus XT1723 Dual Sim LTE 5.0´´ 16GB Câm.8MP+2MP-Preto	True
-35237715	Smartphone LG K4 Novo X230 8GB LTE Dual Sim Tela de 5.0'' -Marrom	True
+35237715	Smartphone LG K4 Novo X230 8GB LTE Dual Sim Tela de 5.0'' -Marrom	False
 37556831	"Smartphone LG K9 TV 16GB, Tela de 5.0"" HD Android 7.0 Câmera 8MP Dourado"	False
 39512318	Smartphone Huawei Mate 10 Lite 64gb 4 Gb Ram DualSim Tela 5.9 - Dourado	True
 132118377	"Smartphone Samsung Galaxy S8+ Dual Chip Android 7.0 Tela 6.2"" Octa-Core 2.3 GHz 64GB Câmera 12MP - Preto"	False
 132931253	Smartphone Samsung Galaxy S8+ 64GB - Preto + Gear VR com controle 2	False
 133274881	"Smartphone Samsung Galaxy J7 Prime 2 Dual Chip Android 7.1 Tela 5.5"" Octa-Core 1.6GHz 32GB 4G Câmera 13MP com TV - Dourado"	False
 133274988	"Smartphone Samsung Galaxy S9+ Dual Chip Android 8.0 Tela 6.2"" Octa-Core 2.8GHz 128GB 4G Câmera 12MP Dual Cam - Ultravioleta"	False
-668329644	Apple Iphone 5 16gb 100% Original Promoção Imperdivel!!!!!!!	True
+668329644	Apple Iphone 5 16gb 100% Original Promoção Imperdivel!!!!!!!	False
 686521708	Smartphone Lg K10 Novo 2017 32gb E 2g Ram +  Frete Grátis	True
-695726975	Apple Iphone 5s 16gb Desbloqueado Original Anatel De Vitrine	True
+695726975	Apple Iphone 5s 16gb Desbloqueado Original Anatel De Vitrine	False
 695926561	Samsung Galaxy S3 Gt I9300 16gb Siii 8mp, 3g - De Vitrine	False
-700299298	Motorola Moto G5s 32gb G 5s Xt1794 2chip 4g Tela 5.2 16mp Nf	True
+700299298	Motorola Moto G5s 32gb G 5s Xt1794 2chip 4g Tela 5.2 16mp Nf	False
 702970930	Samsung Galaxy S5 Original G900m Original	False
 705112358	Apple Iphone 6 16gb Space Gray Original Nacional Vitrine	True
 708127081	Samsung Galaxy Pocket 2 Duos G110 - Android 3g - De Vitrine	False
 708769702	Lançamento Smartphone Cat S61 Tela 5.2 64gb 4g Dual Sim	True
 717103137	Celular Motorola Moto G6 Play Xt1922 4g 32gb Dual Android 8	True
-722631381	Apple Iphone 5s 16gb Original Desbloqueado Novo De Vitrine	True
-722933035	Apple Iphone 5c 16gb Original Desbloqueado - De Vitrine	True
-722936947	Iphone 5s 16gb Original Apple Desbloqueado Novo De Vitrine	True
-723215907	Apple Iphone 5 16gb Original Novo De Vitrine	True
+722631381	Apple Iphone 5s 16gb Original Desbloqueado Novo De Vitrine	False
+722933035	Apple Iphone 5c 16gb Original Desbloqueado - De Vitrine	False
+722936947	Iphone 5s 16gb Original Apple Desbloqueado Novo De Vitrine	False
+723215907	Apple Iphone 5 16gb Original Novo De Vitrine	False
 725748489	Samsung Galaxy Pocket Plus S5301 Android 4.0 - De Vitrine	False
 727798920	Motorola I867 Ferrari	True
 735473636	Celular Motorola Moto G6 Plus Dual 64gb 4gbram Tv Xt1926-8	True
 739496796	Samsung Galaxy Pocket 2 Duos G110 - Android 3g - Novo	False
 745014480	Celular J7 Prime2 Tv Dourado + Nota Fiscal + Lacrado	False
-751387542	Samsung Galaxy S5 Duos 4g Sm G900md Original Seminovo Nfe	True
-755779461	Samsung Galaxy S5 Branco G900m 16gb 4g Desbloqueado Seminovo	True
-760950989	Samsung Galaxy J5 Prime 32gb Dourado Nota Fiscal	True
-773530472	Motorola Moto G Xt1032 8gb Single Chip Desbloqueado - Novo	True
+751387542	Samsung Galaxy S5 Duos 4g Sm G900md Original Seminovo Nfe	False
+755779461	Samsung Galaxy S5 Branco G900m 16gb 4g Desbloqueado Seminovo	False
+760950989	Samsung Galaxy J5 Prime 32gb Dourado Nota Fiscal	False
+773530472	Motorola Moto G Xt1032 8gb Single Chip Desbloqueado - Novo	False
 778531875	Novo Motorola Moto G5s Plus Xt1802 32gb 13mp 4g Rose +nf	True
 780539443	Celular Xiaomi Redmi Mi A1 4g Dual 64gb 4gb Ram 5.5' Lacrado	True
 794323295	Smartphone Cat Caterpillar S60 Lte 32gb !! Pronta Entrega !!	True
 795691568	Smartphone Celular Caterpillar Cat S60 32gb Câm Térmica 4g	True
-807959902	Iphone 6 16gb Apple Tela 4,7 Original Apple Bluetooth	True
-807960504	Iphone 6 16gb Apple Tela 4,7 Garantia Novo Original Apple	True
+807959902	Iphone 6 16gb Apple Tela 4,7 Original Apple Bluetooth	False
+807960504	Iphone 6 16gb Apple Tela 4,7 Garantia Novo Original Apple	False
 810452771	Galaxy S4 Mini 8gb Original Samsung Novo De Vitrine	False
 811025694	Sony Xperia Xz1 Compact 32gb G8441 4g 4gb Ram Snapdragon 835	True
 812468070	Celular Iphone 5s 32gb Desbloqueado 100% Funcionando 3g 4g B	True
-813520073	Samsung Galaxy S5 Branco 16gb 4g G900m Desbloqueado Seminovo	True
-820675577	Celular Lg K10 Dual 4g Tela 5.3 2gb Ram 2  Câmeras Android 7	True
+813520073	Samsung Galaxy S5 Branco 16gb 4g G900m Desbloqueado Seminovo	False
+820675577	Celular Lg K10 Dual 4g Tela 5.3 2gb Ram 2  Câmeras Android 7	False
 823209286	Celular Caterpillar Cat S60 32gb Cam Térmica 4g Original	True
 824511715	Imbativel Corra ! Motorola Moto G5 Xt1676 4g Orig+brinde+nf	True
-834154768	Samsung A510 Galaxy A5 2016 Anatel Nf 16gb Dourado I Vitrine	True
-834156055	Samsung G935 Galaxy S7 Edge 32gb Preto 4g Original I Vitrine	True
+834154768	Samsung A510 Galaxy A5 2016 Anatel Nf 16gb Dourado I Vitrine	False
+834156055	Samsung G935 Galaxy S7 Edge 32gb Preto 4g Original I Vitrine	False
 836705489	Galaxy S7 Edge 32gb Original Samsung G935f De Vitrine	False
 840749892	Motorola Xt1626 Moto G4 Dual Chip 16gb 4g  Preto | Novo	True
-841439651	Celular Lg K10 Novo 2017 4g M250ds 32gb Titânio Tela 5,3	True
+841439651	Celular Lg K10 Novo 2017 4g M250ds 32gb Titânio Tela 5,3	False
 849470172	Celular Motorola Moto G6 Play Xt1922 4g 32gb Dual Android 8	True
 853248747	Smartphone Motorola Moto C Plus 16gb Mem 4g Dual 2gb Ram	True
 853252755	Celular Motorola Moto C 16g Plus Quad Core Dual Sim Tela 5	False
@@ -2185,35 +2185,35 @@ ID	TITLE	SMARTPHONE
 860120130	Lg K10 Novo 2017 Lgm250ds 32gb Dourado Lacrado	True
 860120184	Lg K10 Novo M250ds Titânio Até 12x Original Lacrado +nf	False
 860120250	Celular Lg K10 Power Novo M320tv Indigo Câmera 13mp 32gb	True
-860123050	Lg K10 Power M320tv Indigo Original Lacrado Frete Grátis	False
+860123050	Lg K10 Power M320tv Indigo Original Lacrado Frete Grátis	True
 860892566	Galaxy S5 Mini Duos G800h	False
-860923407	Samsung Galaxy S5 G900 Original 16gb Semi Novo	True
+860923407	Samsung Galaxy S5 G900 Original 16gb Semi Novo	False
 865315186	Promoção  Celular Samsung Galaxy S6 Edge 64gb G925 - Vitrine	True
-873764184	Samsung Galaxy Grand Prime+ Plus Lacrado 4g Melhor J2 J3 J5	True
+873764184	Samsung Galaxy Grand Prime+ Plus Lacrado 4g Melhor J2 J3 J5	False
 875521822	Celular Lg K10 4g Original Lacrado Octacore16gb Tela5.3 Nota	False
 875719829	Celular Samsung Galaxy J7 Neo Tela 5.5 + Flash Frontal	False
 880918239	Iphone Apple 8 64gb Plus Debloq S/juros Leia Anúncio	True
 882236621	Smartphone Barato Xiaomi Redmi Note 4 Leitor De Digital 32gb	True
 885751260	Novo Moto G5 Xt1676 16g Orig+brinde+nota Fiscal+frete Gratis	True
 886734430	Samsung Galaxy S5 Mini Duos G800 16gb Dual Chip - Vitrine	False
-888428931	Celular Lg K10 2017 M250dsf Dual 32gb -	True
+888428931	Celular Lg K10 2017 M250dsf Dual 32gb -	False
 888708040	Smartphone Samsung Galaxy S6 Edge G925i 32gb Preto (vitrine)	True
 895482381	Motorola Moto G5 Xt1671 | 32gb | Dual | Android 7.0 |	True
-896630415	Celular Motorola Moto C Plus  Dual Sim 16gb Tela 5 | 2gb Ram	True
+896630415	Celular Motorola Moto C Plus  Dual Sim 16gb Tela 5 | 2gb Ram	False
 896633212	Celular Motorola Moto C Plus Xt1724 Dual Sim 16gb Tela 5	True
-897909000	Test Item (no Ofertar) Iphone 4 8gb Nuevo	True
+897909000	Test Item (no Ofertar) Iphone 4 8gb Nuevo	False
 900513018	+ Brindes Grátis+ Motorola Moto G4 Plus 32gb Xt1640 -vitrine	True
 903537241	Celular Samsung Galaxy J7 Neo Tela 5.5 + Tv Digital	False
 906211949	Samsung Galaxy K Zoom C115 20mp 4g Wifi Tela De Demonstração	False
 907635551	Caterpillar Cat S60 - Duro Na Queda! - 32gb Câmera Termica!	True
 910619981	Apple Watch Série 3 42mm Cores E Edição  Nike+ Em Estoque	False
 910763540	Samsung Galaxy S8 5.8in 64gb Câmera 12mp+8mp Ametista	True
-914278399	Apple Iphone 5s 16gb 4g 100% Original  Promoção Envio Já	True
-918208411	Apple Iphone 5s 16gb 100% Original Promoção Imperdivel!!!!!!	True
+914278399	Apple Iphone 5s 16gb 4g 100% Original  Promoção Envio Já	False
+918208411	Apple Iphone 5s 16gb 100% Original Promoção Imperdivel!!!!!!	False
 919481440	Celular Moto G5 Xt1671 Novo 32gb  Orig+brinde+nota Fiscal	True
 920970470	Zenfone 4 Selfie Dourado Asus 4g 64gb 4gb 20+8 Mp - Zd553kl	True
-921979732	Iphone 5s 16gb Original Com Nota Fiscal Danfe	True
-925429672	Iphone 6 16gb 4'7 8mp Desbl. Apple Original, A Vista R$1.249	True
+921979732	Iphone 5s 16gb Original Com Nota Fiscal Danfe	False
+925429672	Iphone 6 16gb 4'7 8mp Desbl. Apple Original, A Vista R$1.249	False
 925541875	Smartphone Samsung Galaxy J7 Pro 64gb 4g J730 12x Sem Juros	True
 925541897	Smartphone Samsung Galaxy J7 Pro 64gb 4g J730 Desbloqueado	True
 925548096	Celular Samsung Galaxy J5 Pro Sm-j530g Dual Chip Preto	False
@@ -2221,7 +2221,7 @@ ID	TITLE	SMARTPHONE
 926801056	Celular Motorola G5 32gb Android Tela 5 Câmera 13mp + Fone	False
 927874482	Apple Iphone 8 Plus 64gb Novo Lacrado 1 Ano De Garantia +nf	True
 927962384	Celular Lg K10 Power M320tv 32gb Tela 5.5'' Azul Indigo 4g	True
-928464267	Motorola Moto C Plus Xt1723 Dual Chip 16gb Preto Dourado	True
+928464267	Motorola Moto C Plus Xt1723 Dual Chip 16gb Preto Dourado	False
 928765806	Lançamento Xiaomi Redmi S2 64gb Dual Sim Rom Global Oreo 8.1	True
 929531936	Celular Motorola Moto C Plus Xt1724 Dual  16gb Tela 5 + Fone	True
 929580295	Iphone 8 64gb Novo Lacrado Anatel Garantia Pela Apple 1 Ano	True
@@ -2243,7 +2243,7 @@ ID	TITLE	SMARTPHONE
 949335833	Smartphone Samsung Galaxy S8+ Dourado Tela 6,2  Android 7.0	False
 949937239	Smartphone Samsung Galaxy S9 128gb Preto - Lacrado C/nf	True
 951258463	Celular Alcatel A3 Xl Max 3gb/32gb 9008n - Dourado Ou Preto	True
-951635599	Apple Watch Series 3 42mm Gps Garantia Apple + Brinde	True
+951635599	Apple Watch Series 3 42mm Gps Garantia Apple + Brinde	False
 952975159	Xiaomi Mi A2 Lite 32gb 3gb Dual Chip Tela 5,84' - Rom Global	True
 959701549	Iphone 8 Plus 64gb Original Lacrado Homologado Atanel	True
 961199439	Xiaomi Mi A2 64gb 4gb 20mp Tela 5,99' Snapdragon 660 Android	True
@@ -2252,39 +2252,39 @@ ID	TITLE	SMARTPHONE
 963744829	Smartphone Celular Original Lg K4 8gb 2017 2 Chips Quad Core	False
 963749292	Iphone X 64gb Novo Lacrado Cpo Original Garantia 1 Ano Apple	True
 964921219	Xiaomi Mi A1 5x Dual Chip 64gb 4gb Ram 4g - Dourado Ou Preto	True
-966223464	Relógio Samsung Gear S3 Sm-r770 Classic Wifi Bluetooth	False
+966223464	Relógio Samsung Gear S3 Sm-r770 Classic Wifi Bluetooth	True
 966734967	Celular Xiaomi Redmi Note 5 64gb 4gb Ram 5.9p 12mp Nfe Novo	True
 966738228	Celular Xiaomi Redmi Note 5 64gb 4gb Ram 5.9 Nfe Novo 12x Sj	True
-969416016	Iphone 5s 16gb Novo! Lacrado! Original! Garantia 3 Meses	True
+969416016	Iphone 5s 16gb Novo! Lacrado! Original! Garantia 3 Meses	False
 969476546	Iphone X 256gb 1 Ano De Garantia Apple. Pronta Entrega	True
-969496999	Samsung Galaxy J7 Prime G610f | 32gb Octa-core + Nota Fiscal	True
-970994725	Celular Galaxy J7 Pro 64gb Dourado + Cartão Sd 8gb Grátis	True
-971104886	Celular Galaxy J7 Pro 64gb Preto + Cartão Sd 8gb Grátis	True
-971694246	Celular Galaxy J2 Prime 4g Samsung Smartphone 8gb Original	True
+969496999	Samsung Galaxy J7 Prime G610f | 32gb Octa-core + Nota Fiscal	False
+970994725	Celular Galaxy J7 Pro 64gb Dourado + Cartão Sd 8gb Grátis	False
+971104886	Celular Galaxy J7 Pro 64gb Preto + Cartão Sd 8gb Grátis	False
+971694246	Celular Galaxy J2 Prime 4g Samsung Smartphone 8gb Original	False
 976888913	Xiaomi Mi A2 32gb 4gb 20mp Tela 5,99' Snapdragon 660 Android	True
 978614387	Celular Caterpillar Cat S60 Dual Chip 32gb 4g 100%original	False
 978883952	Iphone X 256gb  Novo! Lacrado!  Cpo! 1 Ano De Garantia Apple	True
 979396465	Celular Samsung Galaxy A8 2018 Sm-a530f 64gb Preto	True
 980833540	Apple Iphone 8 Plus 64gb Lacrado - Com Nota Fiscal	True
 980894888	Samsung Galaxy J5 Prime Preto Leitor De Digital Anatel G570m	False
-980916995	Celular Samsung Galaxy J5 Prime 32gb Biometria 13mp +brindes	True
+980916995	Celular Samsung Galaxy J5 Prime 32gb Biometria 13mp +brindes	False
 981152333	Motorola Moto G5 Xt1671 32gb Dual Sim Android 7.0 13mpx/5mpx	True
 983449457	Iphone X 64gb Apple Lacrado	True
 984629862	Celular Lg K4 Novo 2017 Dual Sim 8gb Tela 5.0 8mp/4mp Cinza	False
-985195190	Celular Lg K10 Novo 2017 4g M250ds 32gb Tela 5,3 Original	True
+985195190	Celular Lg K10 Novo 2017 4g M250ds 32gb Tela 5,3 Original	False
 987076762	Iphone Apple X 256gb Orig Grt Apple Leia Anuncio Original	True
 987549391	Celular Motorola Moto C Plus Xt-1723 - 5.0 Polegadas + Nf	False
-987869736	Celular Samsung Galaxy J2 Pro Android 7.1 Tela 5 16gb	True
+987869736	Celular Samsung Galaxy J2 Pro Android 7.1 Tela 5 16gb	False
 988804788	Xiaomi Redmi 5 Plus 64gb 4gb Dual Chip Rom Global Tela 5,99'	True
 989085729	Smartphone Motorola Moto Z2 Play Polaroid Edition Dualchip	True
 989752218	Iphone 5s 16gb Novo Lacrado Garantia Vendedor 6 Meses	True
-990651418	Celular Moto C Plus 16gb 4g Original Dourado	True
-991263900	Galaxy S8 Plus 64gb Duos Dual Chip Samsung Novo De Vitrine	True
+990651418	Celular Moto C Plus 16gb 4g Original Dourado	False
+991263900	Galaxy S8 Plus 64gb Duos Dual Chip Samsung Novo De Vitrine	False
 992802586	Apple Iphone 7 128gb Original 4g Nacional 12mpx Ios| Vitrine	True
 993672482	Smartphone Apple Iphone 5c 16gb Original Apple	True
-994136442	Moto C Plus Xt1723 Dourado 2º Geração 2gb Ram +16 Gb 2 Chip	True
+994136442	Moto C Plus Xt1723 Dourado 2º Geração 2gb Ram +16 Gb 2 Chip	False
 994413047	Lançamento Xiaomi Redmi S2 32gb Dual Sim Rom Global Oreo 8.1	True
-994917584	Celular Samsung Galaxy J2 Prime 16gb Dual Sim Cam 8mp Wifi	True
+994917584	Celular Samsung Galaxy J2 Prime 16gb Dual Sim Cam 8mp Wifi	False
 995484943	Xiaomi Mi A2 Lite 64gb 4gb Dual Chip Tela 5.84 Rom Global	True
 996979135	Smartphone Apple Iphone 8 Plus 64gb Tela 5,5	True
 997712443	Apple Watch Series 3  42mm Nike + Gps Prova D'água Lançameto	False
@@ -2293,23 +2293,23 @@ ID	TITLE	SMARTPHONE
 999595044	Iphone X 256gb Novo Lacrado Original Apple Garantia 1 Ano	True
 999620409	Apple Iphone X 256gb 1 Ano De Garantia Anatel Original !	True
 1001010116	Xiaomi Redmi 5 Plus 32gb 3gb Dual Chip Rom Global Tela 5,99'	True
-1001967837	Celular Motorola C Plus Xt1723 Dual 16gb - Original Com Nf	True
+1001967837	Celular Motorola C Plus Xt1723 Dual 16gb - Original Com Nf	False
 1001975907	Iphone Apple X 64gb Novo Lacrado 5.8 Garantia De 01 Ano!	True
 1002167408	Celular Smartphone Samsung Galaxy S9+ Preto 128gb	True
 1002289092	Iphone X 64gb Prata Envio Imediato 1 Ano Garantia Brasil	True
 1003940231	Apple Watch Series 3 38mm Nike + Gps Prova D'água	False
-1005562800	Samsung Galaxy A7 2017 A720f Preto 32gb.7 4g 16mp 3gb+ Nota	True
+1005562800	Samsung Galaxy A7 2017 A720f Preto 32gb.7 4g 16mp 3gb+ Nota	False
 1005566988	Smartphone Samsung Galaxy J2 Pro Preto, Tela 5  Android 7.1,	False
 1005840347	Apple Watch Nike+ Séries 3 42mm Lacrado	True
 1005858211	Apple Watch Nike+ Séries 3 38mm Lacrado Novo	True
-1005858744	Apple Watch Nike+ Séries 3 38mm Lacrado	True
+1005858744	Apple Watch Nike+ Séries 3 38mm Lacrado	False
 1006396800	Smartphone Motorola Moto E4 Plus Xt1771 Xt1773 16gb 5.5 Gold	True
 1007140648	Promoção Xiaomi Redmi Note 5 4gb Ram 64gb + Full Cover	True
 1007191413	Smartphone Samsung Galaxy J7 Pro 2017 Sm-j730gm Dual Sim 32g	True
 1008316441	Motorola Moto G5s Xt1792 Anatel 32gb Nf-e Dourado I Vitrine	True
 1008654818	Smartphone Motorola Moto C Plus Android 7.0 16gb Dual Chip	True
 1008902267	Apple Watch Series 3 38mm Nike + Gps Prova D'água Lacrado	False
-1010087924	Celular Samsung Galaxy J2 Pro Dourado Android 7.1 16gb	True
+1010087924	Celular Samsung Galaxy J2 Pro Dourado Android 7.1 16gb	False
 1010484705	Iphone 7 Plus 256gb Lacrado Nf Garantia Apple + 2 Brindes	True
 1010668106	Iphone X 256 Gb Novo Lacrado Anatel Cpo	True
 1011117609	Samsung A7 2017 64gb Novo A720 Lacrado Anatel 3gb Ram 16mp	True
@@ -2318,14 +2318,14 @@ ID	TITLE	SMARTPHONE
 1012227269	Apple Iphone 7 Plus 256gb Lacrado Garantia Um Ano +2 Brindes	True
 1012568407	Smartphone Samsung A530f Galaxy A8 Duos Dual Tela 5.6 64gb	True
 1012572119	Smartphone Samsung A530f Galaxy A8 Duos Dual Tela 5.6 64gb	True
-1014722214	Celular Samsung Galaxy J5 Prime 32gb Biometria 13mp +brindes	True
+1014722214	Celular Samsung Galaxy J5 Prime 32gb Biometria 13mp +brindes	False
 1015544035	Celular Xiaomi Mi A2 Lite 64gb 4g Ram  Lacrado Envio 24hs	True
 1015961356	Celular Smartphone Xiaomi Redmi 5 Plus 32gb Gold Novo	True
 1015970159	Motorola Moto G6 Play 32gb Tela 5,7 Xt1922-5 Nota + Brinde	True
 1016291249	Iphone X 64 Gb Novo Original Anatel E Case	False
 1016700656	Samsung Galaxy S9 Plus 128gb 6gb Ram Nacional + Nf	True
 1017031802	Samsung A8 + Plus A730 Lançamento 64gb Tela 6 Novo 4gb Ram	True
-1017600822	Celular Samsung Galaxy J5 Prime Rose G570m Tela 5  32gb 13mp	True
+1017600822	Celular Samsung Galaxy J5 Prime Rose G570m Tela 5  32gb 13mp	False
 1017636908	Celular Motorola Moto G6 Play Índigo Android 8.0 32gb 4g	True
 1018417200	Smartphone Moto C Xt1758 16gb Tela 5 5mp/2mp 100%original	True
 1018571570	Smartphone Motorola Moto G6 Play 32gb Índigo Xt1922/i	True
@@ -2335,7 +2335,7 @@ ID	TITLE	SMARTPHONE
 1022175797	Relógio Samsung S3 Frontier + 2 Pulseiras Extras	False
 1022593405	Apple Iphone 8 64gb (lacrado Original) - Red (vermelho)	True
 1022775862	Celular  Samsung Galaxy J7 Prime 2 32gb Preto + Tv Digital	False
-1023148781	Iphone 6 Plus 64gb Tela 5'5 12mp 4k Touchid Apple Rfb Desbl.	True
+1023148781	Iphone 6 Plus 64gb Tela 5'5 12mp 4k Touchid Apple Rfb Desbl.	False
 1023339086	Smartphone Samsung Galaxy J7 Neo Tv Tela 5.5 , Android	False
 1023779967	Iphone 8 Plus 64gb 4g Com 1 Ano Garantia Apple Nota Fiscal	True
 1023790534	Celular Galaxy J7 Neo Tv Tela 5.5 Android + Brinde	False
@@ -2344,7 +2344,7 @@ ID	TITLE	SMARTPHONE
 1025607795	Apple Iphone 8 Plus 64gb Anatel	True
 1025788464	Celular Motorola Moto G6 Plus 64gb 4gb Octacore 2.2ghz	True
 1025804613	Celular Motorola Moto G6 Play Índigo 32 Gb Xt1922	True
-1026175271	Apple Watch Series 3 42mm Lacrado + Brinde	True
+1026175271	Apple Watch Series 3 42mm Lacrado + Brinde	False
 1026490748	Motorola Moto G6 Plus Dual Android 8.0 5.9  64gb 4g 12mp	True
 1026504117	Celular Motorola Moto G6 Play Índigo 32 Gb Xt1922	True
 1027402963	Celular Smartphone Motorola Moto C Xt1750 8gb Dual Chip	True
@@ -2355,9 +2355,9 @@ ID	TITLE	SMARTPHONE
 1029544663	Apple Watch Nike+ Séries 3 42mm Lacrado + Envio Imediato	True
 1029807147	Celular Smartphone Moto E4 Plus 5.5 16gb Biometria Dual Sim	True
 1029834904	Motorola Xt1925-3 Moto G6 32gb Nf Garantia Leia Anuncio	True
-1030257890	Celular Smartphone Galaxy S9 +(plus) 128 Gb Preto	False
-1030654364	Smartphone Samsung Galaxy J7 Neo 16gb Tv Dual Octa Dourado	True
-1030654602	Smartphone Samsung Galaxy J7 Neo 16gb Tv Dual Octa Preto	True
+1030257890	Celular Smartphone Galaxy S9 +(plus) 128 Gb Preto	True
+1030654364	Smartphone Samsung Galaxy J7 Neo 16gb Tv Dual Octa Dourado	False
+1030654602	Smartphone Samsung Galaxy J7 Neo 16gb Tv Dual Octa Preto	False
 1031003797	Celular Barato Original Motorola G5 S 32gb Envio24h 4 Gb Ram	True
 1031248030	Celular Xiaomi Redmi 6 32gb 3gb 12mp 5.45´´ Original Global	True
 1031580444	Smartphone Sony Xperia Xa1 Ultra G3223 32gb 1sim	True
@@ -2366,7 +2366,7 @@ ID	TITLE	SMARTPHONE
 1032255419	Celular Novo Original Mi5 Plus Xiaomi Redmi 3gb 32gb Lacrado	True
 1032968329	Xiaomi Mi A2 Global 4gb Ram 64gb 20mp Snapdragon 660 Android	True
 1034138281	Apple Iphone 6 64gb Rfb Lacrado! Oferta Imperdível! Confira!	True
-1034382580	Smartphone Lg K10 Novo M250ds Dourado Novo Com Nota Fiscal	False
+1034382580	Smartphone Lg K10 Novo M250ds Dourado Novo Com Nota Fiscal	True
 1034867417	Celular Galaxy J7 Pro Preto + Office 365 Personal 1tb	False
 1035030223	Motorola Moto G5s Plus 32gb G 5s Xt1805 2chip 4k 13mp	True
 1035034762	Motorola Moto G5s Plus 32gb G 5s Xt1805 2chip 4k 13mp	True
@@ -2379,7 +2379,7 @@ ID	TITLE	SMARTPHONE
 1039992757	Celular Samsung Galaxy J7 Prime 2 32gb Dourado + Tv Digital	False
 1040053392	Celular  Samsung Galaxy J7 Prime 2 32gb Preto + Tv Digital	False
 1041490991	Celular Smartphone Lg K4 Android Barato 2017 Whats Original	False
-1041957820	Apple Watch Series 3 38mm Lacrado Nf + Brinde	True
+1041957820	Apple Watch Series 3 38mm Lacrado Nf + Brinde	False
 1043016246	Apple Iphone 6 64gb Novo Lacrado Com Nota Fiscal	True
 1043103938	Motorola Moto G6 Plus Dual Android 8.0 5.9 64gb 4g 12mp	True
 1043437119	Celular New 100% Original Motorola Moto Z2 Play 64gb Xt1710	True
@@ -2395,12 +2395,12 @@ ID	TITLE	SMARTPHONE
 1046781531	Iphone 8 64gb Vermelho Lacrado Nf Anatel 3388,88 Avista	True
 1046787831	Motorola Moto G6 Play Xt1922 Nf Lacrado	True
 1047430612	Smartphone Motorola Moto Z3 Play 64gb Indigo Lacrado	True
-1047643671	Iphone 6 16gb Original Desbloqueado Usado 100% Funcionando C	True
+1047643671	Iphone 6 16gb Original Desbloqueado Usado 100% Funcionando C	False
 1047657004	Smartphone Samsung Galaxy S8 + Plus Tela 6.2 Dual Sim 64gb	True
 1047753461	Celular Smartphone Motorola Moto Z3 Play Indigo Tela 6	True
 1047753466	Celular Smartphone Motorola Moto Z3 Play Indigo Tela 6	True
 1047891834	Smartphone Motorola Moto G6 Plus 64gb 4gb Octacore - Índigo	True
-1048953863	Samsung A7 2017 A720f Promoção Semi Novo Nf Anatel Garantia	True
+1048953863	Samsung A7 2017 A720f Promoção Semi Novo Nf Anatel Garantia	False
 1049178770	Celular Motorola Moto Z3 Play 64gb Indigo	True
 1049234402	Celular Smartphone Samsung Galaxy S9+ Cinza Tela 6.2  128gb	True
 1049871895	Celular Xiaomi Redmi Note 5 64gb 4gb 5.99 + Capinha Pelicula	True
@@ -2415,7 +2415,7 @@ ID	TITLE	SMARTPHONE
 1052937921	Smartphone Samsung Galaxy S7 Edge 128gb Blackpiano+ Nota	True
 1052963468	Celular Samsung J400m Galaxy J4 Preto 32 Gb	False
 1053036989	Motorola Moto G5 Plus Xt1683 Promoção Vitrine Anatel 32gb	True
-1053117552	Smartphone Motorola Moto E5 Plus Dual Chip Prom Dia Das Cria	False
+1053117552	Smartphone Motorola Moto E5 Plus Dual Chip Prom Dia Das Cria	True
 1053875247	Smartwatch Samsung Gear S3 Frontier 1.3 Bluetooth - Original	False
 1054295254	Celular Samsung J400m Galaxy J4 Prata 32 Gb	False
 1054308274	Celular Samsung J400m Galaxy J4 Preto 16 Gb	False
@@ -2423,7 +2423,7 @@ ID	TITLE	SMARTPHONE
 1054878748	Iphone 8 Plus 64gb Dourado Nota Fiscal Lacrado	True
 1054895118	Iphone 8 Plus 64gb + Nota Fiscal + Lacrado  (avista 3888,88)	True
 1055309712	Smartphone Xiaomi Redmi Note 5 32gb Mem 3gb Ram Dual 5.99pol	True
-1055934802	Iphone 6 16gb Novo Lacrado Com Nota Fiscal Envio Imediato	True
+1055934802	Iphone 6 16gb Novo Lacrado Com Nota Fiscal Envio Imediato	False
 1056180430	Smartphone Motorola Moto G6 Play Dourado 32 Gb Xt1922	True
 1056187938	Celular Motorola Moto G6 Play Dourado 32 Gb Xt1922	False
 1056284560	Xiaomi Mi Mix 2s Global Branco 64gb, Pronta Entrega!	True
@@ -2443,7 +2443,7 @@ ID	TITLE	SMARTPHONE
 1064788363	Smartphone Motorola Moto Z3 Play 128gb Dual Android 8.1 Ônix	True
 1064790531	Smartphone Motorola Moto Z3 Play 128gb Dual Android 8.1 Ônix	True
 1065114159	Apple Iphone 8 64gb - Lacrado - Anatel	True
-1065283874	Celular Caterpillar Cat S60 Dual Chip 32gb 4g Original C/ Nf	False
+1065283874	Celular Caterpillar Cat S60 Dual Chip 32gb 4g Original C/ Nf	True
 1065585288	Promoção Celular Smartphone Moto E4 Plus 5.5 16gb Top	True
 1065585530	Promoção Celular Smartphone Moto E4 Plus 5.5 16gb Biometria	True
 1065619626	Celular Samsung Galaxy J5 Pro Sm-j530g Dual Chip Dourado	False
@@ -2462,7 +2462,7 @@ ID	TITLE	SMARTPHONE
 1069221420	Smartphone Samsung Galaxy J7 Prime 2 Dourado 32gb Dual Chip	True
 1069423185	Celular Xiaomin Redmi Note 5 32gb 3gb Xiaomi Global Brinde	True
 1069533955	Celular Xiaomi Redmi Note 5 Pro 64gb 4gb Global 12x Sem Juro	True
-1069860385	Iphone 6 16gb Novo! Lacrado! Original! Garantia 3 Meses	True
+1069860385	Iphone 6 16gb Novo! Lacrado! Original! Garantia 3 Meses	False
 1069862053	Iphone 6 64gb Novo! Lacrado! Garantia De 03 Meses Vendedor	True
 1071902269	Smartphone Motorola Moto G6 Plus 64gb Azul Topázio	True
 1071912689	Samsung Galaxy S5 G900m 16gb Original Usado Mancha Na Tela	False
@@ -2471,7 +2471,7 @@ ID	TITLE	SMARTPHONE
 1072947381	Samsung Galaxy S9+ S9 Plus Anatel 128gb Lacrado Nf Garantia	True
 1073137174	Celular Moto G5s Plus 32gb 3gb Ram Platin+brinde+nota Fiscal	True
 1074084470	Smartphone Xiaomi Redmi Note 5 64gb Mem 4gb Ram Dual 5.99pol	True
-1074153521	Celular Moto C Plus Dual Chip 16gb Preto	True
+1074153521	Celular Moto C Plus Dual Chip 16gb Preto	False
 1074517610	Celular Xiaomi Redmi 6 32gb 3gb Ram Dual Camera Novo Lacrado	True
 1074965120	Smartphone Lenovo K8 Plus 32gb Mem 3gb Ram Dual 4g 5.2pol	True
 1075447621	Smartphone Meizu M5c Dual Sim 4g 2gb Ram 16gb - Preto	True
@@ -2489,7 +2489,7 @@ ID	TITLE	SMARTPHONE
 1077157052	Celular Xiaomi Mi A2 64gb 4g Ram C\nota Black Novo Lacrado	True
 1077518301	Smartphone Motorola Moto G5s Plus 32gb Mem 3gb Ram Dual	True
 1078008721	Smartphone Meizu M5c Dual Sim 4g 2gb Ram 16gb - Preto	True
-1078139110	Celular Motorola Moto G5s Plus 32gb/4gb Original Grafite	True
+1078139110	Celular Motorola Moto G5s Plus 32gb/4gb Original Grafite	False
 1078146167	Celular Xiaomi Redmi Note 5 32gb 3gb Global Lacrado Preto	True
 1078513466	Iphone 6 Plus 64gb Lacrado E Cabo Lighting	True
 1078653954	Samsung Galaxy S9 128gb Preto Sm-g9600/ds Anatel Lacrado	True
@@ -2505,7 +2505,7 @@ ID	TITLE	SMARTPHONE
 1080212639	Smartphone Xiaomi Mi A2 Lite Global 3gb Ram 32gb P/ Entrega	True
 1080461251	Smartphone Xiaomi Mi A2 Lite 4gb Ram 64gb 4000mah 4g 5,84	True
 1080552516	Iphone X 256gb Lacrado Garantia 1 Ano Parcelamento Sem Juros	True
-1080635265	Samsung Galaxy J7 Prime 32gb Original Usado	True
+1080635265	Samsung Galaxy J7 Prime 32gb Original Usado	False
 1080679988	Smartphone Motorola Moto Z2 Play Xt1710 4gb/64gb 5.5'' Dual	True
 1080762936	Smartphone Xiaomi Mi A2 4gb/64gb Dual Sim Tela 5.99'' Global	True
 1080788081	Smartphone Xiaomi Mi A2 4gb/64gb Dual Sim Tela 5.99'' Global	True
@@ -2526,7 +2526,7 @@ ID	TITLE	SMARTPHONE
 1082828625	Iphone 6 64gb Novo! Lacrado! Garantia De 6 Meses Vendedor	True
 1082845380	Smartphone Samsung Galaxy S9 Plus Preto 128gb, Tela Infinita	True
 1083447711	Celular Motorola Moto G6 Plus 64gb 4gb Ram Tela 5.9 Índigo	True
-1083684261	Samsung J6 Preto Tela 5,6 4g 32gb 13mp + Nota Fiscal + Lacr	True
+1083684261	Samsung J6 Preto Tela 5,6 4g 32gb 13mp + Nota Fiscal + Lacr	False
 1083712089	Celular Xiaomi Mi A2 Lite 64gb/4gb Lacrado Global Octacore	True
 1083995049	Celular Samsung A530f Galaxy A8 Duos Dual Tela 5.6'' 64gb	False
 1084340822	Smartphone Xiaomi Mi A2 Dual Sim 32g - 5.99   -  Ver Cores	True
@@ -2544,11 +2544,11 @@ ID	TITLE	SMARTPHONE
 1087722575	Smartphone Xiaomi Mi 8 64gb/6gb Dual Sim Global P/ Entrega	True
 1087872453	Celular Xiaomi Mi A 2 A2 64gb 4g Ram Global Lançamento	True
 1088837899	Celular Xiaomi Mi A1 4gb Ram 64gb 2 Chip Preto	True
-1089321953	Caterpillar Cat S60 Dualsim 32gb Tela 4.7 Infravermelho Flir	True
+1089321953	Caterpillar Cat S60 Dualsim 32gb Tela 4.7 Infravermelho Flir	False
 1091111893	Motorola Moto E5 Xt1944-4 Platinum , Lacrado Nf	True
 1091120060	Smartphone Xiaomi Mi A2 64gb Dualsim 4gb 5.99' Versão Global	True
 1091147735	Celular Xiaomi Mi A2 Lite Global 3gb Ram 32gb Original	True
-1091289061	Iphone 5s 16gb Space Gray Com Nota Fiscal	True
+1091289061	Iphone 5s 16gb Space Gray Com Nota Fiscal	False
 1091992932	Smartphone Motorola Moto E4 Plus Biometria 3g Ram Tela 5.5	True
 1092474394	Apple Iphone X 64gb Preto Anatel Lacrado	True
 1092661462	Xiaomi Redmi 6 64gb 4g 4gb Ram Tela 5,45' Android 8.1	True
@@ -2558,7 +2558,7 @@ ID	TITLE	SMARTPHONE
 1093175873	Celular Samsung J8 64gb Violeta Tela 6'' 4g	True
 1093182031	Celular Samsung J8 64gb Prata Tela 6'' 4g	True
 1093287213	Smartphone Samsung Galaxy J5 Prime 32gb 13mp +brindes	True
-1093383523	Samsung Galaxy S9+ Plus 128gb Preto - Lacrado Nacional	True
+1093383523	Samsung Galaxy S9+ Plus 128gb Preto - Lacrado Nacional	False
 1094237610	Celular Samsung Galaxy S4 Mini 8gb 3g/lte Android 4.4	False
 1094540437	Smartphone Samsung Galaxy S9 Plus 128gb Anatel/nf/garantia	True
 1094961305	Smartphone Xiaomi Mi 8 Dualchip 128gb/6gb Versão Global	True
@@ -2577,7 +2577,7 @@ ID	TITLE	SMARTPHONE
 1097285932	Celular Samsung J400m Galaxy J4 Prata 32 Gb	False
 1098574819	Celular Xiaomi Pocophone F1 128gb 6gb C\nota Global Lacrado	True
 1098581653	Celular Xiaomi  Pocophone F1 64gb 6gb C\nota Global Lacrado	True
-1099263256	Celular Samsung Galaxy J7 Prime 2 / 32gb + Brinde !!!	True
+1099263256	Celular Samsung Galaxy J7 Prime 2 / 32gb + Brinde !!!	False
 1100174661	Moto Z2 Play 64gb Xt1710 5.5 Full Hd 4gb Ram	True
 1100178494	Smartphone  Moto Z2 Play 64gb Xt1710 5.5 Full Hd 4gb Ram	True
 1100807681	Motorola Moto G6 Plus Azul Topazio Dual 5.9  64gb 4g 12mp	True
@@ -2588,7 +2588,7 @@ ID	TITLE	SMARTPHONE
 1106549255	Celular Samsung J400m Galaxy J4 Violeta 32 Gb	False
 1106609097	Celular Samsung J400m Galaxy J4 Prata 32 Gb	False
 1107590289	Celular Xiaomin Redmi Note 5 64gb 4g Ram Pronta Entrega	True
-1109394935	Iphone 8 64 Gb Apple Desbloqueado Anatel Lacrado Original	True
+1109394935	Iphone 8 64 Gb Apple Desbloqueado Anatel Lacrado Original	False
 1109397175	Iphone 8 64 Gb Apple Desbloqueado Anatel Lacrado Novo	True
 1110226459	Apple Iphone 8 Plus 64gb Gold Dourado - Novo Lacrado	True
 1111104349	Smartphone Xiaomi Redmi Note 4x 64gb 4gb Rom Global	True
@@ -2597,7 +2597,7 @@ ID	TITLE	SMARTPHONE
 1113203077	Smartphone Samsung Galaxy J6 Sm-j600g/ds Dual Sim 32gb .	True
 1113807094	Iphone X 256gb Modelo 1901 Anatel/ Com Nota Fiscal	True
 1115291630	Relógio Smartwatch Samsung Gear Sm-r800 46mm Cinza	True
-1115333516	Celular Galaxy J7 Pro 64gb Preto + Cartão Sd 8gb Grátis	True
+1115333516	Celular Galaxy J7 Pro 64gb Preto + Cartão Sd 8gb Grátis	False
 1115652402	Celular Xiaomi Redmi Note 5 64gb 4gb 5.99pol	True
 1118394240	Celular Xiaomi Redmi Note 5 32gb 3gb C/ 3 Brindes	True
 1118682127	Motorola Nextel I867  Ferrari - Otimo Estado	True

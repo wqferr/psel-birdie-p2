@@ -1,1 +1,1 @@
-python classify.py 0.25
+python classify.py 0.2

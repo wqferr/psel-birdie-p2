@@ -6,4 +6,5 @@ tv
 jogos-de-rpg
 processador
 gabinete
+memoria-para-pc
 placa-de-captura-de-video
