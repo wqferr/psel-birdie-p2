@@ -59,3 +59,17 @@ Tais produtos são salvos no arquivo intermediário `smartphones.tsv`.
 O notebook `extract_features.ipynb` utiliza as features definidas no script `smartphone_features.py`.
 
 Os títulos, IDs e features extraídas dos produtos em `smartphones.tsv` são salvos em `features.tsv`. Valores desconhecidos são marcados com a string `N/A` na coluna correspondente.
+
+### 4. Matching / Deduplicação
+#### TL;DR
+1. Rodar notebook `match_products.ipynb`
+2. Saída no arquivo `matches.tsv`
+
+#### Detalhes
+O notebook define e descreve as funções e métodos usados para a deduplicação de produtos.
+
+O arquivo `matches.tsv` contém apenas produtos considerados duplicados, com uma coluna a mais nomeada `UNCERTAINTY`.
+
+A coluna `UNCERTAINTY` no arquivo de saída indica o número de campos `None` em uma das ou em ambas as instâncias comparadas.
+
+Incluir uma métrica de incerteza permite que algorítmos mais à frente na pipeline possam configurar a qualidade vs quantidade de pares utilizados.
